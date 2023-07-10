@@ -1,0 +1,11 @@
+11
+~E 1 "../src/Q1.vhd" 4 gcd
+~A 1 "../src/Q1.vhd" 15 arch
+~A 1 "../src/Q1.vhd" 15 example
+~A 1 "../src/Q1.vhd" 15 fast_arch
+~A 1 "../src/Q1.vhd" 14 slow_arch
+~E 1 "../src/Q1.vhd" 6 GCD_Calculator
+~E 1 "../src/Q1.vhd" 12 lcm
+~A 1 "../src/Q1.vhd" 38 behav
+~E 1 "../src/Q1.vhd" 4 Q1
+~A 1 "../src/Q1.vhd" 14 Q1

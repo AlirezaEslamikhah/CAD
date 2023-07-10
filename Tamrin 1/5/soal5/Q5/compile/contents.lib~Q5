@@ -1,0 +1,6 @@
+36
+~E 1 "../src/Q5.vhd" 7 complex_calculator
+~A 1 "../src/Q5.vhd" 19 Behavioral
+~E 1 "../src/TestBench/complex_calculator_TB.vhd" 8 complex_calculator_tb
+~A 1 "../src/TestBench/complex_calculator_TB.vhd" 11 TB_ARCHITECTURE
+~C 1 "../src/TestBench/complex_calculator_TB.vhd" 60 testbench_for_complex_calculator

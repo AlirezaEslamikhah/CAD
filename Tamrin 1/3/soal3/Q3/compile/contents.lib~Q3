@@ -1,0 +1,6 @@
+5
+~C 1 "../src/TestBench/unarytobinary_TB.vhd" 110 testbench_for_unarytobinary
+~E 1 "../src/Q3.vhd" 4 UnaryToBinary
+~A 1 "../src/Q3.vhd" 11 Behavioral
+~E 1 "../src/TestBench/unarytobinary_TB.vhd" 6 unarytobinary_tb
+~A 1 "../src/TestBench/unarytobinary_TB.vhd" 70 TB_ARCHITECTURE

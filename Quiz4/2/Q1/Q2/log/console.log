@@ -1,0 +1,210 @@
+# Design: Design Q2 already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0055: Q2.vhd : (3, 10): Cannot find context item "work.CalculatorPackage".
+# Error: COMP96_0056: Q2.vhd : (13, 1): Cannot find referenced entity declaration "Calculator".
+# Compile failure 2 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -reorder -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0055: Q2.vhd : (3, 10): Cannot find context item "work.CalculatorPackage".
+# Error: COMP96_0056: Q2.vhd : (13, 1): Cannot find referenced entity declaration "Calculator".
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work Q2 -2002  $dsn/src/Package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Package.vhd
+# Compile Package "CalculatorPackage"
+# Compile Package Body "CalculatorPackage"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -reorder -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Calculator"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Top-level unit(s) detected:
+# Entity => Calculator
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Package.vhd
+# Compile Package "calc"
+# Compile Package Body "calc"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Package.vhd
+# Compile Package "calc"
+# Compile Package Body "calc"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Package.vhd
+# Compile Package "calc"
+# Compile Package Body "calc"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0078: Q2.vhd : (18, 23): Unknown identifier "add".
+# Error: COMP96_0133: Q2.vhd : (18, 23): Cannot find object declaration.
+# Error: COMP96_0289: Q2.vhd : (18, 23): Prefix of index must be an array.
+# Error: COMP96_0077: Q2.vhd : (18, 23): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0090: Q2.vhd : (20, 23): Expected array type.
+# Error: COMP96_0077: Q2.vhd : (20, 23): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0078: Q2.vhd : (18, 23): Unknown identifier "add".
+# Error: COMP96_0133: Q2.vhd : (18, 23): Cannot find object declaration.
+# Error: COMP96_0289: Q2.vhd : (18, 23): Prefix of index must be an array.
+# Error: COMP96_0077: Q2.vhd : (18, 23): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0090: Q2.vhd : (20, 23): Expected array type.
+# Error: COMP96_0077: Q2.vhd : (20, 23): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Package.vhd
+# Compile Package "calc"
+# Compile Package Body "calc"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Error: COMP96_0078: Q2.vhd : (18, 23): Unknown identifier "add".
+# Error: COMP96_0133: Q2.vhd : (18, 23): Cannot find object declaration.
+# Error: COMP96_0289: Q2.vhd : (18, 23): Prefix of index must be an array.
+# Error: COMP96_0077: Q2.vhd : (18, 23): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Error: COMP96_0090: Q2.vhd : (20, 23): Expected array type.
+# Error: COMP96_0077: Q2.vhd : (20, 23): Undefined type of expression. Expected type 'STD_LOGIC_VECTOR'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Behavioral" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "SOlve" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Solve" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Solve" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Solve" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Package.vhd
+# Compile Package "calc"
+# Compile Package Body "calc"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Package.vhd
+# Compile Package "calc"
+# Compile Package Body "calc"
+# Error: COMP96_0019: Package.vhd : (33, 3): Keyword 'return' expected.
+# Error: COMP96_0020: Package.vhd : (33, 3): Variable can be declared only in a process or subprogram.
+# Error: COMP96_0019: Package.vhd : (34, 9): Keyword 'end' expected.
+# Error: COMP96_0015: Package.vhd : (34, 9): ';' expected.
+# Error: COMP96_0016: Package.vhd : (34, 16): Design unit declaration expected.
+# Compile Package Body "calc"
+# Error: COMP96_0019: Package.vhd : (43, 22): Keyword 'is' expected.
+# Error: COMP96_0019: Package.vhd : (43, 22): Keyword 'end' expected.
+# Compile failure 7 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Package.vhd
+# Compile Package "calc"
+# Compile Package Body "calc"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Q2.vhd
+# Compile Entity "Q2"
+# Compile Architecture "Solve" of Entity "Calculator"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz4/2/Q1/Q2/src/Package.vhd
+# Compile Package "calc"
+# Compile Package Body "calc"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]

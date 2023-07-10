@@ -1,0 +1,45 @@
+timestamp=1681391963648
+
+[~A]
+ModifyID=40
+Version=74
+
+[~MFT]
+0=10|0Soal2.mgf|40161|35120
+1=4|1Soal2.mgf|50356|47565
+3=2|3Soal2.mgf|6472|4966
+
+[alu]
+A/behavioral=A/Behavioral 21|../src/Q2.vhd|16|1*36633
+BinW64/behavioral=3*4966
+I=0*27479
+I/behavioral=I/Behavioral 0*31668
+M=11|2|vef|1681127754019|../src/Q2.vhd|0*27069*0xab27162d3365bddb81765e2c44ae820b621d4c86|0*27409*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1681128377662|../src/Q2.vhd|0*29895*0xb9507818f8f1d0ecad8890f8b2c7fe7f3a3a0774|0*31584*0x20116f55b147878295aeff36dce7fc50
+R=../src/Q2.vhd|6
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|fdc9c85601beb4171a6a25c637e2168ef6a1188bb5d04cda9c5618f37d3c7b20
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff404d553817e91d409d4fdd1f390a5e848
+
+[alu_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/alu_TB.vhd|10|1*48664
+BinW64/tb_architecture=3*6472
+I=0*5949
+I/tb_architecture=I/TB_ARCHITECTURE 0*39870
+M=11|2|vef|1681122169941|../src/TestBench/alu_TB.vhd|0*5669*0x8fc52b0b06c7599c90c6c8698c7da48d4ed0e0e5|0*5862*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vef|1681391963543|../src/TestBench/alu_TB.vhd|0*39003*0x46b849c749c34cf40f12287fd395a8c00299bf18|0*39764*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/alu_TB.vhd|7
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|b5ca7ba7583dcb786be856c479ad2f64e81521bc8cddd3e249b289abb9a1dbc9
+Version/tb_architecture=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beaf259244185398fb4fb480cf1ef30663f
+
+[testbench_for_alu]
+Configures=alu_tb.TB_ARCHITECTURE
+E=1*50356
+I=0*40161
+M=2|2|vef|1681391963635|../src/TestBench/alu_TB.vhd|0*31916*0xe8de9a9593f0b3c8447e54eacbe62e410db00253|0*32170*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/alu_TB.vhd|59
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5b8f23e5cabe222998e0c23066880c31ec1eb148280e308162ce4cd80dfbb56b7
+
+[~U]
+alu=ALU 11|0*26853|
+alu_tb=11|0*5551|
+testbench_for_alu=TESTBENCH_FOR_alu 2||

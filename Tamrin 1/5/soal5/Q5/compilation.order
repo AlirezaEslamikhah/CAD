@@ -1,0 +1,3 @@
+.\src\Q5.vhd
+.\src\package.vhd
+.\src\TestBench\complex_calculator_TB.vhd

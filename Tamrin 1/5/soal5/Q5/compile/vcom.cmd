@@ -1,0 +1,1 @@
+-w -erf "D:/active hdl/soal5/Q5/compile/Q5.erf" -d "D:/active hdl/soal5/Q5/compile" -s "D:/active hdl/soal5/library.cfg" -j "D:/active hdl/soal5/Q5/projlib.cfg" -work Q5 -O3 -e 100 -work Q5 -2002 "D:/active hdl/soal5/Q5/src/TestBench/complex_calculator_TB.vhd" 

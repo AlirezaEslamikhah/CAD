@@ -1,0 +1,1 @@
+-w -erf "D:/active hdl/soal3/Q3/compile/Q3.erf" -d "D:/active hdl/soal3/Q3/compile" -s "D:/active hdl/soal3/library.cfg" -j "D:/active hdl/soal3/Q3/projlib.cfg" -work Q3 -O3 -e 100 -work Q3 -2002 "D:/active hdl/soal3/Q3/src/TestBench/unarytobinary_TB.vhd" 

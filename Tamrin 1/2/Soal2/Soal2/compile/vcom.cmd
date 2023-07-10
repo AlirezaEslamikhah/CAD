@@ -1,0 +1,1 @@
+-w -erf "D:/active hdl/Soal2/Soal2/compile/Soal2.erf" -d "D:/active hdl/Soal2/Soal2/compile" -s "D:/active hdl/Soal2/library.cfg" -j "D:/active hdl/Soal2/Soal2/projlib.cfg" -work Soal2 -O3 -e 100 -work Soal2 -2002 "D:/active hdl/Soal2/Soal2/src/TestBench/alu_TB.vhd" 

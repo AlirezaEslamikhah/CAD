@@ -1,0 +1,116 @@
+# Design: Design Q3 already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work Q3 -2002  $dsn/src/Q3_Moore.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/Q3_Moore.vhd
+# Compile Entity "StringDetector"
+# Compile Architecture "Behavioral" of Entity "StringDetector"
+# Top-level unit(s) detected:
+# Entity => StringDetector
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/TestBench/stringdetector_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/stringdetector_TB.vhd
+# Compile Entity "stringdetector_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "stringdetector_tb"
+# Compile Configuration "TESTBENCH_FOR_stringdetector"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/TestBench/stringmealydetector_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/stringmealydetector_TB.vhd
+# Compile Entity "stringmealydetector_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "stringmealydetector_tb"
+# Compile Configuration "TESTBENCH_FOR_stringdetector"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/TestBench/stringmealydetector_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/stringmealydetector_TB.vhd
+# Compile Entity "stringmealydetector_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "stringmealydetector_tb"
+# Compile Configuration "TESTBENCH_FOR_stringdetector"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q4.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/Q4.vhd
+# Compile Entity "BinaryToUnary"
+# Compile Architecture "Behavioral" of Entity "BinaryToUnary"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/TestBench/binarytounary_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/binarytounary_TB.vhd
+# Compile Entity "binarytounary_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "binarytounary_tb"
+# Error: COMP96_0025: TestBench/binarytounary_TB.vhd : (35, 10): Identifier or string literal expected.
+# Compile Configuration "TESTBENCH_FOR_binarytounary"
+# Error: COMP96_0209: TestBench/binarytounary_TB.vhd : (42, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  63.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/TestBench/binarytounary_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/binarytounary_TB.vhd
+# Compile Entity "binarytounary_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "binarytounary_tb"
+# Error: COMP96_0025: TestBench/binarytounary_TB.vhd : (35, 10): Identifier or string literal expected.
+# Error: COMP96_0015: TestBench/binarytounary_TB.vhd : (38, 6): ';' expected.
+# Error: COMP96_0016: TestBench/binarytounary_TB.vhd : (38, 13): Design unit declaration expected.
+# Compile Configuration "TESTBENCH_FOR_binarytounary"
+# Error: COMP96_0209: TestBench/binarytounary_TB.vhd : (43, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/TestBench/binarytounary_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/binarytounary_TB.vhd
+# Compile Entity "binarytounary_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "binarytounary_tb"
+# Error: COMP96_0025: TestBench/binarytounary_TB.vhd : (35, 10): Identifier or string literal expected.
+# Error: COMP96_0015: TestBench/binarytounary_TB.vhd : (38, 6): ';' expected.
+# Error: COMP96_0016: TestBench/binarytounary_TB.vhd : (38, 13): Design unit declaration expected.
+# Compile Configuration "TESTBENCH_FOR_binarytounary"
+# Error: COMP96_0209: TestBench/binarytounary_TB.vhd : (43, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/TestBench/binarytounary_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/binarytounary_TB.vhd
+# Compile Entity "binarytounary_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "binarytounary_tb"
+# Compile Configuration "TESTBENCH_FOR_binarytounary"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/TestBench/binarytounary_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/binarytounary_TB.vhd
+# Compile Entity "BinaryToUnary_TB"
+# Compile Architecture "Behavioral" of Entity "BinaryToUnary_TB"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/TestBench/binarytounary_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/binarytounary_TB.vhd
+# Compile Entity "BinaryToUnary_TB"
+# Compile Architecture "Behavioral" of Entity "BinaryToUnary_TB"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q3_Moore.vhd $dsn/src/Q3_Mealy.vhd $dsn/src/Q4.vhd $dsn/src/TestBench/stringdetector_TB.vhd $dsn/src/TestBench/stringmealydetector_TB.vhd $dsn/src/TestBench/binarytounary_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/Q3_Moore.vhd
+# Compile Entity "StringDetector"
+# Compile Architecture "Behavioral" of Entity "StringDetector"
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/Q3_Mealy.vhd
+# Compile Entity "StringDetector"
+# Compile Architecture "Behavioral" of Entity "StringDetector"
+# Warning: COMP96_0994: Q3_Mealy.vhd : (13, 1): Multiple architecture "Behavioral" of entity "StringDetector" found in "C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/Q3_Mealy.vhd", "C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/Q3_Moore.vhd".
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/Q4.vhd
+# Compile Entity "BinaryToUnary"
+# Compile Architecture "Behavioral" of Entity "BinaryToUnary"
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/stringdetector_TB.vhd
+# Compile Entity "stringdetector_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "stringdetector_tb"
+# Compile Configuration "TESTBENCH_FOR_stringdetector"
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/stringmealydetector_TB.vhd
+# Compile Entity "stringmealydetector_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "stringmealydetector_tb"
+# Compile Configuration "TESTBENCH_FOR_stringdetector"
+# Warning: COMP96_0994: TestBench/stringmealydetector_TB.vhd : (57, 1): Multiple configuration "TESTBENCH_FOR_stringdetector" found in "C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/stringmealydetector_TB.vhd", "C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/stringdetector_TB.vhd".
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW4/Q3/Q3/src/TestBench/binarytounary_TB.vhd
+# Compile Entity "BinaryToUnary_TB"
+# Compile Architecture "Behavioral" of Entity "BinaryToUnary_TB"
+# Compile success 0 Errors 2 Warnings  Analysis time :  0.1 [s]

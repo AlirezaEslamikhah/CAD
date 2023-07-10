@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd" 
+MESSAGE "Compile Package "Recursive_Functions"" 
+MESSAGE "Compile Package Body "Recursive_Functions"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 

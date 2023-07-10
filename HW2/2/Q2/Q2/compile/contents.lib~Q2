@@ -1,0 +1,6 @@
+8
+~E 1 "../src/Q2.vhd" 6 SquareRoot
+~A 1 "../src/Q2.vhd" 13 Behavioral
+~E 1 "../src/TestBench/squareroot_TB.vhd" 8 squareroot_tb
+~A 1 "../src/TestBench/squareroot_TB.vhd" 11 TB_ARCHITECTURE
+~C 1 "../src/TestBench/squareroot_TB.vhd" 45 testbench_for_squareroot

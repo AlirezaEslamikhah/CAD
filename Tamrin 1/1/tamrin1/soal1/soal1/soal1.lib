@@ -1,0 +1,53 @@
+timestamp=1681120352525
+
+[~A]
+ModifyID=19
+Version=74
+
+[~MFT]
+0=14|0soal1.mgf|13784|9129
+1=4|1soal1.mgf|16650|14072
+3=2|3soal1.mgf|1212|735
+
+[arr_package]
+E=1*0
+I=0*741
+M=3|2|vef|1680943769779|../src/tamrin1.vhd|0*403*0x3ba373c0c49840d3e9a7726b90f3675c6799c350|0*658*0x23b75c12e3e89f2ef000564498faa8c2
+R=../src/tamrin1.vhd|6
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|579e5960e7859c7bad12aa503c1e9993d7d5e99170edfb18e76ea3e76cda9e994e2d142b41d78a3e2c5674ff41f9ff29
+
+[q1]
+A/behavioral=A/Behavioral 21|../src/tamrin1.vhd|15|1*10218
+BinW64/behavioral=3*735
+I=0*2480
+I/behavioral=I/Behavioral 0*8507
+M=11|2|vef|1681055322558|../src/tamrin1.vhd|0*2158*0xad3016bff748f94786cb7f79ba9cc443e4604632|0*2406*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1681059443488|../src/tamrin1.vhd|0*7873*0x7995c0b46d116840d44a0ae6213161866e91d075|0*8419*0x20116f55b147878295aeff36dce7fc50
+R=../src/tamrin1.vhd|7
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|7532bc88914627354fc52f4fb88098a5f2740e568ecca38275b81e5320294cdd
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4ae708b724a31b7f3008cc4f8908ad6bd
+
+[q1_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/q1_TB.vhd|9|1*15549
+BinW64/tb_architecture=3*1212
+I=0*4450
+I/tb_architecture=I/TB_ARCHITECTURE 0*13111
+M=11|2|vef|1681058378404|../src/TestBench/q1_TB.vhd|0*4204*0x7862614da11e029664e560574015aaa9705addbd|0*4365*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vef|1681120352496|../src/TestBench/q1_TB.vhd|0*12447*0x8bc4a8d8f7fe0d381b6e9dc2d35525a05760bc71|0*13007*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/q1_TB.vhd|6
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|dc780750ed61debd55a21da4d762a0fc0eae2e64532249e40e79afc52c44d035
+Version/tb_architecture=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534bea344d2bb59fd2b2bf7b75fcd9b913bfea
+
+[testbench_for_q1]
+Configures=q1_tb.TB_ARCHITECTURE
+E=1*16650
+I=0*13784
+M=2|2|vef|1681120352506|../src/TestBench/q1_TB.vhd|0*13434*0x66fc7ef4c2e78328f5eb8f41b963df29d450f9a9|0*13680*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/q1_TB.vhd|44
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e56a46f0ab79ce943d89d3667a74fb7e82fdb8f4cb10a291658d879bac24582426
+
+[~U]
+arr_package=3|0*0|0*193
+q1=Q1 11|0*1986|
+q1_tb=11|0*4088|
+testbench_for_q1=TESTBENCH_FOR_q1 2||

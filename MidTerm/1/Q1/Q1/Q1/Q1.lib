@@ -1,0 +1,45 @@
+timestamp=1685706427852
+
+[~A]
+ModifyID=23
+Version=74
+
+[~MFT]
+0=2|0Q1.mgf|19637|15048
+1=2|1Q1.mgf|33331|31171
+3=2|3Q1.mgf|3159|2295
+
+[counter]
+A/behavioral=A/Behavioral 21|../src/Q1.vhd|17|1*33331
+BinW64/behavioral=3*3159
+I=0*666
+I/behavioral=I/Behavioral 0*19637
+M=11|2|vef|1685692245336|../src/Q1.vhd|0*216*0x859edd5d4905b6aef6c65ceb172373e03c7a7ae6|0*592*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1685706427846|../src/Q1.vhd|0*19027*0xdfe790ab09bc74d78bf992b9c91027acd80ffa70|0*19549*0x20116f55b147878295aeff36dce7fc50
+R=../src/Q1.vhd|7
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|ec8a9ceecd40c97da6d5687ce01e262f26527262ddaa47cb266f3a3c4d9b973a3d42cd183c672acc52ba600f355a3a91
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4b42ff08a7c8b24fde5f02566247e8eb2
+
+[counter_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/counter_TB.vhd|11|1*25007
+BinW64/tb_architecture=3*2295
+I=0*4122
+I/tb_architecture=I/TB_ARCHITECTURE 0*17317
+M=11|2|vef|1685694025945|../src/TestBench/counter_TB.vhd|0*3794*0xee08b682f6604b93031ec0f7165d7fc95d67b751|0*4027*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vef|1685702339068|../src/TestBench/counter_TB.vhd|0*14520*0xb400159d2dbdbfd3812e5029fab2ca18fd94969f|0*15805*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/counter_TB.vhd|8
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|bb2263b5ebb3063423436e483d1b408cf2251e2d7ebe3b4833eead6b690f4518f07249f43d4fcbd324a28e650f2be69b
+Version/tb_architecture=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beabdd1fe67f45fc84810441f252dc81207
+
+[testbench_for_counter]
+Configures=counter_tb.TB_ARCHITECTURE
+E=1*26711
+I=0*17649
+M=2|2|vef|1685702339072|../src/TestBench/counter_TB.vhd|0*13455*0x266537c4f320bae43f16baa618a38da1a0815405|0*13741*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/counter_TB.vhd|110
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5e310a08dc9ab9c7578391658bc422852b9e86f5922bf7a0eba105c924de4738b
+
+[~U]
+counter=Counter 11|0*0|
+counter_tb=11|0*3668|
+testbench_for_counter=TESTBENCH_FOR_counter 2||

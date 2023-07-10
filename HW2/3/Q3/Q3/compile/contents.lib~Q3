@@ -1,0 +1,8 @@
+13
+~E 1 "../src/Q3.vhd" 78 one_by_one
+~A 1 "../src/Q3.vhd" 87 one_by_one
+~E 1 "../src/Q3.vhd" 6 Q3
+~A 1 "../src/Q3.vhd" 13 solve
+~E 1 "../src/TestBench/q3_TB.vhd" 7 q3_tb
+~A 1 "../src/TestBench/q3_TB.vhd" 10 TB_ARCHITECTURE
+~C 1 "../src/TestBench/q3_TB.vhd" 44 testbench_for_q3

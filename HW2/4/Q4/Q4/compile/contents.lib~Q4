@@ -1,0 +1,6 @@
+5
+~E 1 "../src/Q4.vhd" 5 Q4
+~A 1 "../src/Q4.vhd" 17 Behavioral
+~E 1 "../src/TestBench/q4_TB.vhd" 7 q4_tb
+~A 1 "../src/TestBench/q4_TB.vhd" 10 TB_ARCHITECTURE
+~C 1 "../src/TestBench/q4_TB.vhd" 64 testbench_for_q4

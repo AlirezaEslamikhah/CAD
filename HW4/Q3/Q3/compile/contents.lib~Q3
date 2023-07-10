@@ -1,0 +1,14 @@
+10
+~E 1 "../src/Q4.vhd" 5 BinaryToUnary
+~A 1 "../src/Q4.vhd" 12 Behavioral
+~E 1 "../src/TestBench/binarytounary_TB.vhd" 4 BinaryToUnary_TB
+~A 1 "../src/TestBench/binarytounary_TB.vhd" 7 Behavioral
+~A 1 "../src/TestBench/binarytounary_TB.vhd" 10 tb_architecture
+~E 1 "../src/Q3_Moore.vhd" 4 StringDetector
+~A 1 "../src/Q3_Mealy.vhd" 13 Behavioral
+~E 1 "../src/TestBench/stringdetector_TB.vhd" 6 stringdetector_tb
+~A 1 "../src/TestBench/stringdetector_TB.vhd" 9 TB_ARCHITECTURE
+~E 1 "../src/TestBench/stringmealydetector_TB.vhd" 6 stringmealydetector_tb
+~A 1 "../src/TestBench/stringmealydetector_TB.vhd" 9 TB_ARCHITECTURE
+~C 1 "../src/TestBench/binarytounary_TB.vhd" 39 testbench_for_binarytounary
+~C 1 "../src/TestBench/stringmealydetector_TB.vhd" 57 testbench_for_stringdetector

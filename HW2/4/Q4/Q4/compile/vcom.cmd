@@ -1,0 +1,1 @@
+-w -erf C:/Users/lenovo/Desktop/term6/CAD/HW2/4/Q4/Q4/compile/Q4.erf -d C:/Users/lenovo/Desktop/term6/CAD/HW2/4/Q4/Q4/compile -s C:/Users/lenovo/Desktop/term6/CAD/HW2/4/Q4/library.cfg -j C:/Users/lenovo/Desktop/term6/CAD/HW2/4/Q4/Q4/projlib.cfg -work Q4 -O3 -e 100 -work Q4 -2002 C:/Users/lenovo/Desktop/term6/CAD/HW2/4/Q4/Q4/src/TestBench/q4_TB.vhd 

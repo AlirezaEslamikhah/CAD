@@ -1,0 +1,587 @@
+V 000042 55 485 1680943769780 arr_package
+(_unit VHDL(arr_package 0 6)
+	(_version vef)
+	(_time 1680943769781 2023.04.08 12:19:29)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code 26727523227070337029367c762025207420272021)
+	(_object
+		(_type(_int ~STD_LOGIC_VECTOR{0~to~3}~15 0 7(_array -1((_to i 0 i 3)))))
+		(_type(_int arr_type 0 7(_array 0((_to i 0 i 2)(_to i 0 i 2)))))
+		(_type(_ext ieee.std_logic_1164.STD_LOGIC(0 STD_LOGIC)))
+	)
+	(_use(ieee(std_logic_1164))(std(standard))(ieee(NUMERIC_STD)))
+)
+I 000051 55 530           1680944574879 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1680944574880 2023.04.08 12:32:54)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code 7f787d7b28292a6c7f786e202f787e7c7e787e7c7e)
+	(_ent
+		(_time 1680944574877)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int outout -2 0 10(_ent(_out))))
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(std_logic_1164))(ieee(NUMERIC_STD)))
+)
+I 000051 55 745           1681056758394 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1681056758395 2023.04.09 19:42:38)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code abffa3f9f8fdfeb8abfebaf4fbacaaa8aaacaaa8aa)
+	(_ent
+		(_time 1681055322558)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int output -2 0 10(_ent(_out))))
+		(_sig(_int sum -2 0 16(_arch(_uni((i 0))))))
+		(_prcs
+			(line__18(_arch 0 0 18(_prcs(_trgt(2)(1))(_mon)(_read(2)(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+		(_type(_ext ieee.NUMERIC_STD.UNSIGNED(2 UNSIGNED)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(NUMERIC_STD))(ieee(std_logic_1164)))
+	(_model . Behavioral 1 -1)
+)
+I 000051 55 745           1681056762459 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1681056762460 2023.04.09 19:42:42)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code 89da818281dfdc9a89dc98d6d98e888a888e888a88)
+	(_ent
+		(_time 1681055322558)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int output -2 0 10(_ent(_out))))
+		(_sig(_int sum -2 0 16(_arch(_uni((i 0))))))
+		(_prcs
+			(line__18(_arch 0 0 18(_prcs(_trgt(2)(1))(_mon)(_read(2)(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+		(_type(_ext ieee.NUMERIC_STD.UNSIGNED(2 UNSIGNED)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(NUMERIC_STD))(ieee(std_logic_1164)))
+	(_model . Behavioral 1 -1)
+)
+I 000051 55 745           1681056774721 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1681056774722 2023.04.09 19:42:54)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code 73747b77712526607325622c237472707274727072)
+	(_ent
+		(_time 1681055322558)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int output -2 0 10(_ent(_out))))
+		(_sig(_int sum -2 0 16(_arch(_uni((i 0))))))
+		(_prcs
+			(line__18(_arch 0 0 18(_prcs(_trgt(2)(1))(_mon)(_read(2)(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+		(_type(_ext ieee.NUMERIC_STD.UNSIGNED(2 UNSIGNED)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(NUMERIC_STD))(ieee(std_logic_1164)))
+	(_model . Behavioral 1 -1)
+)
+I 000051 55 745           1681057219154 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1681057219155 2023.04.09 19:50:19)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code 792a797d712f2c6a792f6826297e787a787e787a78)
+	(_ent
+		(_time 1681055322558)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int output -2 0 10(_ent(_out))))
+		(_sig(_int sum -2 0 16(_arch(_uni((i 0))))))
+		(_prcs
+			(line__18(_arch 0 0 18(_prcs(_trgt(2)(1))(_mon)(_read(2)(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+		(_type(_ext ieee.NUMERIC_STD.UNSIGNED(2 UNSIGNED)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(NUMERIC_STD))(ieee(std_logic_1164)))
+	(_model . Behavioral 1 -1)
+)
+I 000051 55 745           1681057221361 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1681057221362 2023.04.09 19:50:21)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code 24777425217271372472357b742325272523252725)
+	(_ent
+		(_time 1681055322558)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int output -2 0 10(_ent(_out))))
+		(_sig(_int sum -2 0 16(_arch(_uni((i 0))))))
+		(_prcs
+			(line__18(_arch 0 0 18(_prcs(_trgt(2)(1))(_mon)(_read(2)(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+		(_type(_ext ieee.NUMERIC_STD.UNSIGNED(2 UNSIGNED)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(NUMERIC_STD))(ieee(std_logic_1164)))
+	(_model . Behavioral 1 -1)
+)
+I 000056 55 959           1681058378407 TB_ARCHITECTURE
+(_unit VHDL(q1_tb 0 6(tb_architecture 0 9))
+	(_version vef)
+	(_time 1681058378408 2023.04.09 20:09:38)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code dad5da8d8a8ed8cddcdbc8818ad9dbdf8cdddedcd8)
+	(_ent
+		(_time 1681058378405)
+	)
+	(_comp
+		(Q1
+			(_object
+				(_port(_int arr -1 0 13(_ent (_in))))
+				(_port(_int output -2 0 14(_ent (_out))))
+			)
+		)
+	)
+	(_inst UUT 0 27(_comp Q1)
+		(_port
+			((arr)(arr))
+			((output)(output))
+		)
+		(_use(_ent . Q1)
+		)
+	)
+	(_object
+		(_sig(_int arr -1 0 18(_arch(_uni))))
+		(_sig(_int output -2 0 20(_arch(_uni))))
+		(_prcs
+			(line__34(_arch 0 0 34(_prcs(_wait_for)(_trgt(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+	)
+	(_use(.(arr_package))(std(standard)))
+	(_static
+		(50463490 50529026 33751810 50463490 50528771 50528770 50529026 50463235 50529026)
+	)
+	(_model . TB_ARCHITECTURE 1 -1)
+)
+I 000035 55 353 0 testbench_for_q1
+(_configuration VHDL (testbench_for_q1 0 42 (q1_tb))
+	(_version vef)
+	(_time 1681058437658 2023.04.09 20:10:37)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code 4c4d414e1a1a1b5b484d5e16184a194a4f4a44491a)
+	(_arch TB_ARCHITECTURE
+		(_inst UUT
+			(_ent . Q1 behavioral
+			)
+		)
+	)
+	(_use(std(standard))(.(arr_package)))
+)
+I 000056 55 959           1681058458379 TB_ARCHITECTURE
+(_unit VHDL(q1_tb 0 6(tb_architecture 0 9))
+	(_version vef)
+	(_time 1681058458380 2023.04.09 20:10:58)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code 3b6e6b3b686f392c3d3a29606b383a3e6d3c3f3d39)
+	(_ent
+		(_time 1681058378404)
+	)
+	(_comp
+		(Q1
+			(_object
+				(_port(_int arr -1 0 13(_ent (_in))))
+				(_port(_int output -2 0 14(_ent (_out))))
+			)
+		)
+	)
+	(_inst UUT 0 27(_comp Q1)
+		(_port
+			((arr)(arr))
+			((output)(output))
+		)
+		(_use(_ent . Q1)
+		)
+	)
+	(_object
+		(_sig(_int arr -1 0 18(_arch(_uni))))
+		(_sig(_int output -2 0 20(_arch(_uni))))
+		(_prcs
+			(line__34(_arch 0 0 34(_prcs(_wait_for)(_trgt(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+	)
+	(_use(.(arr_package))(std(standard)))
+	(_static
+		(50463490 50529026 33751810 50463490 50528771 50528770 50529026 50463235 50529026)
+	)
+	(_model . TB_ARCHITECTURE 1 -1)
+)
+I 000035 55 353 0 testbench_for_q1
+(_configuration VHDL (testbench_for_q1 0 42 (q1_tb))
+	(_version vef)
+	(_time 1681058458383 2023.04.09 20:10:58)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code 3b6e6e3e6c6d6c2c3f3a29616f3d6e3d383d333e6d)
+	(_arch TB_ARCHITECTURE
+		(_inst UUT
+			(_ent . Q1 behavioral
+			)
+		)
+	)
+	(_use(std(standard))(.(arr_package)))
+)
+I 000051 55 681           1681058686992 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1681058686993 2023.04.09 20:14:46)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code 2d292b2c787b783e2d783c727d2a2c2e2c2a2c2e2c)
+	(_ent
+		(_time 1681055322558)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int output -2 0 10(_ent(_out))))
+		(_sig(_int sum -2 0 16(_arch(_uni((i 0))))))
+		(_prcs
+			(line__18(_arch 0 0 18(_prcs(_trgt(2)(1))(_read(2)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(std_logic_1164))(ieee(NUMERIC_STD)))
+	(_model . Behavioral 1 -1)
+)
+I 000051 55 745           1681058939464 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1681058939465 2023.04.09 20:18:59)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code 71777175712724627124602e217670727076707270)
+	(_ent
+		(_time 1681055322558)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int output -2 0 10(_ent(_out))))
+		(_sig(_int sum -2 0 16(_arch(_uni((i 0))))))
+		(_prcs
+			(line__18(_arch 0 0 18(_prcs(_trgt(2)(1))(_mon)(_read(2)(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+		(_type(_ext ieee.NUMERIC_STD.UNSIGNED(2 UNSIGNED)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(NUMERIC_STD))(ieee(std_logic_1164)))
+	(_model . Behavioral 1 -1)
+)
+I 000051 55 745           1681059062990 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1681059062991 2023.04.09 20:21:02)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code fdacffa8a8aba8eefda8eca2adfafcfefcfafcfefc)
+	(_ent
+		(_time 1681055322558)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int output -2 0 10(_ent(_out))))
+		(_sig(_int sum -2 0 16(_arch(_uni((i 0))))))
+		(_prcs
+			(line__18(_arch 0 0 18(_prcs(_trgt(2)(1))(_mon)(_read(2)(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+		(_type(_ext ieee.NUMERIC_STD.UNSIGNED(2 UNSIGNED)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(NUMERIC_STD))(ieee(std_logic_1164)))
+	(_model . Behavioral 1 -1)
+)
+V 000051 55 899           1681059443489 Behavioral
+(_unit VHDL(q1 0 7(behavioral 0 15))
+	(_version vef)
+	(_time 1681059443490 2023.04.09 20:27:23)
+	(_source(\../src/tamrin1.vhd\))
+	(_parameters tan)
+	(_code 51055257510704425100400e015650525056505250)
+	(_ent
+		(_time 1681055322558)
+	)
+	(_object
+		(_port(_int arr -1 0 9(_ent(_in))))
+		(_port(_int output -2 0 10(_ent(_out))))
+		(_sig(_int sum -2 0 16(_arch(_uni((i 0))))))
+		(_prcs
+			(line__30(_arch 0 0 30(_assignment(_trgt(2))(_sens(0(2_2))(0(2_1))(0(2_0))(0(1_2))(0(1_1))(0(1_0))(0(0_2))(0(0_1))(0(0_0)))(_mon))))
+			(line__32(_arch 1 0 32(_assignment(_alias((output)(sum)))(_trgt(1))(_sens(2)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+		(_type(_ext ieee.NUMERIC_STD.UNSIGNED(2 UNSIGNED)))
+	)
+	(_use(.(arr_package))(std(standard))(ieee(NUMERIC_STD))(ieee(std_logic_1164)))
+	(_model . Behavioral 2 -1)
+)
+I 000056 55 1045          1681120077757 TB_ARCHITECTURE
+(_unit VHDL(q1_tb 0 6(tb_architecture 0 9))
+	(_version vef)
+	(_time 1681120077758 2023.04.10 13:17:57)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code eabbedbcbabee8fdece4f8b1bae9ebefbcedeeece8)
+	(_ent
+		(_time 1681058378404)
+	)
+	(_comp
+		(Q1
+			(_object
+				(_port(_int arr -1 0 13(_ent (_in))))
+				(_port(_int output -2 0 14(_ent (_out))))
+			)
+		)
+	)
+	(_inst UUT 0 27(_comp Q1)
+		(_port
+			((arr)(arr))
+			((output)(output))
+		)
+		(_use(_ent . Q1)
+		)
+	)
+	(_object
+		(_sig(_int arr -1 0 18(_arch(_uni))))
+		(_sig(_int output -2 0 20(_arch(_uni))))
+		(_prcs
+			(line__34(_arch 0 0 34(_prcs(_wait_for)(_trgt(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+	)
+	(_use(.(arr_package))(std(standard)))
+	(_static
+		(50463490 50529026 33751810 50463490 50528771 50528770 50529026 50463235 50529026)
+		(50463491 50529027 33686274 50463491 50463235 33686275 50463490 50528771 33686019)
+	)
+	(_model . TB_ARCHITECTURE 1 -1)
+)
+I 000035 55 353 0 testbench_for_q1
+(_configuration VHDL (testbench_for_q1 0 43 (q1_tb))
+	(_version vef)
+	(_time 1681120077763 2023.04.10 13:17:57)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code eabbe8b9bebcbdfdeeebf8b0beecbfece9ece2efbc)
+	(_arch TB_ARCHITECTURE
+		(_inst UUT
+			(_ent . Q1 behavioral
+			)
+		)
+	)
+	(_use(std(standard))(.(arr_package)))
+)
+I 000056 55 959           1681120215617 TB_ARCHITECTURE
+(_unit VHDL(q1_tb 0 6(tb_architecture 0 9))
+	(_version vef)
+	(_time 1681120215618 2023.04.10 13:20:15)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code 6e686e6b3a3a6c7968607c353e6d6f6b38696a686c)
+	(_ent
+		(_time 1681058378404)
+	)
+	(_comp
+		(Q1
+			(_object
+				(_port(_int arr -1 0 13(_ent (_in))))
+				(_port(_int output -2 0 14(_ent (_out))))
+			)
+		)
+	)
+	(_inst UUT 0 27(_comp Q1)
+		(_port
+			((arr)(arr))
+			((output)(output))
+		)
+		(_use(_ent . Q1)
+		)
+	)
+	(_object
+		(_sig(_int arr -1 0 18(_arch(_uni))))
+		(_sig(_int output -2 0 20(_arch(_uni))))
+		(_prcs
+			(line__34(_arch 0 0 34(_prcs(_wait_for)(_trgt(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+	)
+	(_use(.(arr_package))(std(standard)))
+	(_static
+		(50463491 50529027 33686274 50463491 50463235 33686275 50463490 50528771 33686019)
+	)
+	(_model . TB_ARCHITECTURE 1 -1)
+)
+I 000035 55 353 0 testbench_for_q1
+(_configuration VHDL (testbench_for_q1 0 43 (q1_tb))
+	(_version vef)
+	(_time 1681120215623 2023.04.10 13:20:15)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code 6e686b6e3e3839796a6f7c343a683b686d68666b38)
+	(_arch TB_ARCHITECTURE
+		(_inst UUT
+			(_ent . Q1 behavioral
+			)
+		)
+	)
+	(_use(std(standard))(.(arr_package)))
+)
+I 000056 55 1045          1681120262654 TB_ARCHITECTURE
+(_unit VHDL(q1_tb 0 6(tb_architecture 0 9))
+	(_version vef)
+	(_time 1681120262655 2023.04.10 13:21:02)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code 25712d2421712732232b377e752624207322212327)
+	(_ent
+		(_time 1681058378404)
+	)
+	(_comp
+		(Q1
+			(_object
+				(_port(_int arr -1 0 13(_ent (_in))))
+				(_port(_int output -2 0 14(_ent (_out))))
+			)
+		)
+	)
+	(_inst UUT 0 27(_comp Q1)
+		(_port
+			((arr)(arr))
+			((output)(output))
+		)
+		(_use(_ent . Q1)
+		)
+	)
+	(_object
+		(_sig(_int arr -1 0 18(_arch(_uni))))
+		(_sig(_int output -2 0 20(_arch(_uni))))
+		(_prcs
+			(line__34(_arch 0 0 34(_prcs(_wait_for)(_trgt(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+	)
+	(_use(.(arr_package))(std(standard)))
+	(_static
+		(50463490 50529026 33751810 50463490 50528771 50528770 50529026 50463235 50529026)
+		(50463491 50529027 33686274 50463491 50463235 33686275 50463490 50528771 33686019)
+	)
+	(_model . TB_ARCHITECTURE 1 -1)
+)
+I 000035 55 353 0 testbench_for_q1
+(_configuration VHDL (testbench_for_q1 0 43 (q1_tb))
+	(_version vef)
+	(_time 1681120262663 2023.04.10 13:21:02)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code 34603931356263233035266e6032613237323c3162)
+	(_arch TB_ARCHITECTURE
+		(_inst UUT
+			(_ent . Q1 behavioral
+			)
+		)
+	)
+	(_use(std(standard))(.(arr_package)))
+)
+V 000056 55 1045          1681120352497 TB_ARCHITECTURE
+(_unit VHDL(q1_tb 0 6(tb_architecture 0 9))
+	(_version vef)
+	(_time 1681120352498 2023.04.10 13:22:32)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code 191c101b114d1b0e1f160b42491a181c4f1e1d1f1b)
+	(_ent
+		(_time 1681058378404)
+	)
+	(_comp
+		(Q1
+			(_object
+				(_port(_int arr -1 0 13(_ent (_in))))
+				(_port(_int output -2 0 14(_ent (_out))))
+			)
+		)
+	)
+	(_inst UUT 0 27(_comp Q1)
+		(_port
+			((arr)(arr))
+			((output)(output))
+		)
+		(_use(_ent . Q1)
+		)
+	)
+	(_object
+		(_sig(_int arr -1 0 18(_arch(_uni))))
+		(_sig(_int output -2 0 20(_arch(_uni))))
+		(_prcs
+			(line__34(_arch 0 0 34(_prcs(_wait_for)(_trgt(0)))))
+		)
+		(_type(_ext soal1.arr_package.arr_type(0 arr_type)))
+		(_type(_ext std.standard.INTEGER(1 INTEGER)))
+	)
+	(_use(.(arr_package))(std(standard)))
+	(_static
+		(50463490 50529026 33751810 50463490 50528771 50528770 50529026 50463235 50529026)
+		(50463491 50529027 33686274 50463491 50463235 33686275 50463490 50528771 33686019)
+	)
+	(_model . TB_ARCHITECTURE 1 -1)
+)
+V 000035 55 353 0 testbench_for_q1
+(_configuration VHDL (testbench_for_q1 0 44 (q1_tb))
+	(_version vef)
+	(_time 1681120352507 2023.04.10 13:22:32)
+	(_source(\../src/TestBench/q1_TB.vhd\))
+	(_parameters tan)
+	(_code 282d242c257e7f3f2c293a727c2e7d2e2b2e202d7e)
+	(_arch TB_ARCHITECTURE
+		(_inst UUT
+			(_ent . Q1 behavioral
+			)
+		)
+	)
+	(_use(std(standard))(.(arr_package)))
+)

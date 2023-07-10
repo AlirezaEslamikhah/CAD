@@ -1,0 +1,1 @@
+-w -erf "D:/active hdl/tamrin1/soal1/compile/soal1.erf" -d "D:/active hdl/tamrin1/soal1/compile" -s "D:/active hdl/tamrin1/library.cfg" -j "D:/active hdl/tamrin1/soal1/projlib.cfg" -work soal1 -O3 -e 100 -work soal1 -2002 "D:/active hdl/tamrin1/soal1/src/TestBench/q1_TB.vhd" 

@@ -1,0 +1,11 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: D:/active hdl/soal3/Q3/src/TestBench/unarytobinary_TB.vhd" 
+MESSAGE "Compile Entity "unarytobinary_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "unarytobinary_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_unarytobinary"" 
+MESSAGE "Compile Entity "unarytobinary_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "unarytobinary_tb"" 
+WARNING COMP96_0994: "Multiple architecture "TB_ARCHITECTURE" of entity "unarytobinary_tb" found in "D:/active hdl/soal3/Q3/src/TestBench/unarytobinary_TB.vhd", "D:/active hdl/soal3/Q3/src/TestBench/unarytobinary_TB.vhd"." "D:/active hdl/soal3/Q3/src/TestBench/unarytobinary_TB.vhd" 70 1
+MESSAGE "Compile Configuration "TESTBENCH_FOR_unarytobinary"" 
+WARNING COMP96_0994: "Multiple configuration "TESTBENCH_FOR_unarytobinary" found in "D:/active hdl/soal3/Q3/src/TestBench/unarytobinary_TB.vhd", "D:/active hdl/soal3/Q3/src/TestBench/unarytobinary_TB.vhd"." "D:/active hdl/soal3/Q3/src/TestBench/unarytobinary_TB.vhd" 110 1
+SUCCESS "Compile success 0 Errors 2 Warnings  Analysis time :  0.1 [s]" 

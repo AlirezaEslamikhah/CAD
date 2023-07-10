@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/TestBench/squareroot_TB.vhd" 
+MESSAGE "Compile Entity "squareroot_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "squareroot_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_squareroot"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 

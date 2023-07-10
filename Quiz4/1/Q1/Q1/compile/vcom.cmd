@@ -1,0 +1,1 @@
+-w -erf C:/Users/lenovo/Desktop/term6/CAD/Quiz4/1/Q1/Q1/compile/Q1.erf -d C:/Users/lenovo/Desktop/term6/CAD/Quiz4/1/Q1/Q1/compile -s C:/Users/lenovo/Desktop/term6/CAD/Quiz4/1/Q1/library.cfg -j C:/Users/lenovo/Desktop/term6/CAD/Quiz4/1/Q1/Q1/projlib.cfg -work Q1 -O3 -e 100 -work Q1 -2002 C:/Users/lenovo/Desktop/term6/CAD/Quiz4/1/Q1/Q1/src/Q1.vhd 

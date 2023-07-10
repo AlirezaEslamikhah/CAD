@@ -1,0 +1,38 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=soal1
+[Library]
+soal1=.\soal1\soal1.lib
+[$LibMap$]
+soal1=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/tamrin1.vhd=-1
+/packages.vhd=-1
+/..\..\..\..\activehdl\tamrin1\soal1\src\untitled.asdb=-1
+/..\..\..\..\activehdl\tamrin1\soal1\src\untitled.awc=-1
+TestBench/q1_TB.vhd=-1
+TestBench/q1_TB_runtest.do=-1
+[Files.Data]
+.\src\tamrin1.vhd=VHDL Source Code
+.\src\packages.vhd=VHDL Source Code
+.\..\..\..\activehdl\tamrin1\soal1\src\untitled.asdb=Accelerated Waveform File
+.\..\..\..\activehdl\tamrin1\soal1\src\untitled.awc=Accelerated Waveform Configuration
+.\src\TestBench\q1_TB.vhd=VHDL Test Bench
+.\src\TestBench\q1_TB_runtest.do=Macro
+[HierarchyViewer]
+HierarchyInformation=q1_tb|TB_ARCHITECTURE|0
+ShowHide=ShowTopLevel
+Selected=
+[Groups]
+TestBench=1

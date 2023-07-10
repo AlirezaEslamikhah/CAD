@@ -1,0 +1,140 @@
+# Design: Design Q1 already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "gcd"
+# Compile Architecture "slow_arch" of Entity "gcd"
+# Top-level unit(s) detected:
+# Entity => gcd
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "gcd"
+# Compile Architecture "example" of Entity "gcd"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "gcd"
+# Compile Architecture "fast_arch" of Entity "gcd"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "GCD_Calculator"
+# Compile Architecture "Behavioral" of Entity "GCD_Calculator"
+# Error: COMP96_0122: Q1.vhd : (15, 5): Symbol "GCD" has already been declared in this scope.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "gcd"
+# Compile Architecture "arch" of Entity "gcd"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Error: COMP96_0018: Q1.vhd : (2, 9): Identifier expected.
+# Error: COMP96_0016: Q1.vhd : (2, 17): Design unit declaration expected.
+# Error: COMP96_0016: Q1.vhd : (2, 21): Design unit declaration expected.
+# Compile Entity "gcd"
+# Error: COMP96_0078: Q1.vhd : (3, 5): Unknown identifier "IEEE".
+# Error: COMP96_0078: Q1.vhd : (4, 5): Unknown identifier "IEEE".
+# Compile Entity "lcm"
+# Compile Architecture "behav" of Entity "gcd"
+# Error: COMP96_0078: Q1.vhd : (21, 9): Unknown identifier "a".
+# Error: COMP96_0078: Q1.vhd : (21, 11): Unknown identifier "b".
+# Error: COMP96_0348: Q1.vhd : (21, 9): Name on sensitivity list must denote a signal.
+# Error: COMP96_0348: Q1.vhd : (21, 11): Name on sensitivity list must denote a signal.
+# Error: COMP96_0078: Q1.vhd : (24, 4): Unknown identifier "a".
+# Error: COMP96_0133: Q1.vhd : (24, 4): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (24, 4): Undefined type of expression. Expected type 'INTEGER'.
+# Error: COMP96_0078: Q1.vhd : (25, 4): Unknown identifier "b".
+# Error: COMP96_0133: Q1.vhd : (25, 4): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (25, 4): Undefined type of expression. Expected type 'INTEGER'.
+# Error: COMP96_0078: Q1.vhd : (33, 1): Unknown identifier "c".
+# Error: COMP96_0133: Q1.vhd : (33, 1): Cannot find object declaration.
+# Error: COMP96_0078: Q1.vhd : (34, 1): Unknown identifier "d".
+# Error: COMP96_0078: Q1.vhd : (34, 4): Unknown identifier "a".
+# Error: COMP96_0078: Q1.vhd : (34, 6): Unknown identifier "b".
+# Error: COMP96_0133: Q1.vhd : (34, 1): Cannot find object declaration.
+# Compile Architecture "behav" of Entity "lcm"
+# Compile failure 21 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "q1"
+# Compile Architecture "q1" of Entity "q1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Q1"
+# Compile Architecture "Q1" of Entity "Q1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Q1"
+# Compile Architecture "Q1" of Entity "Q1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Q1"
+# Compile Architecture "Q1" of Entity "Q1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Q1"
+# Compile Architecture "Q1" of Entity "Q1"
+# Error: COMP96_0018: Q1.vhd : (20, 19): Identifier expected.
+# Error: COMP96_0019: Q1.vhd : (25, 13): Keyword 'end' expected.
+# Error: COMP96_0029: Q1.vhd : (27, 23): Expression expected.
+# Error: COMP96_0019: Q1.vhd : (28, 14): Keyword 'process' expected.
+# Error: COMP96_0015: Q1.vhd : (31, 8): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (31, 15): Design unit declaration expected.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Error: COMP96_0010: Q1.vhd : (20, 19): Invalid literal.
+# Error: COMP96_0010: Q1.vhd : (25, 13): Invalid literal.
+# Error: COMP96_0010: Q1.vhd : (27, 23): Invalid literal.
+# Compile Entity "Q1"
+# Compile Architecture "Q1" of Entity "Q1"
+# Error: COMP96_0018: Q1.vhd : (20, 19): Identifier expected.
+# Error: COMP96_0019: Q1.vhd : (25, 13): Keyword 'end' expected.
+# Error: COMP96_0029: Q1.vhd : (27, 23): Expression expected.
+# Error: COMP96_0019: Q1.vhd : (28, 14): Keyword 'process' expected.
+# Error: COMP96_0015: Q1.vhd : (31, 8): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (31, 15): Design unit declaration expected.
+# Compile failure 9 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Error: COMP96_0010: Q1.vhd : (20, 19): Invalid literal.
+# Error: COMP96_0010: Q1.vhd : (25, 13): Invalid literal.
+# Error: COMP96_0010: Q1.vhd : (27, 23): Invalid literal.
+# Compile Entity "Q1"
+# Compile Architecture "Q1" of Entity "Q1"
+# Error: COMP96_0018: Q1.vhd : (20, 19): Identifier expected.
+# Error: COMP96_0019: Q1.vhd : (25, 13): Keyword 'end' expected.
+# Error: COMP96_0029: Q1.vhd : (27, 23): Expression expected.
+# Error: COMP96_0019: Q1.vhd : (28, 14): Keyword 'process' expected.
+# Error: COMP96_0015: Q1.vhd : (31, 8): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (31, 15): Design unit declaration expected.
+# Compile failure 9 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Q1"
+# Compile Architecture "Q1" of Entity "Q1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]

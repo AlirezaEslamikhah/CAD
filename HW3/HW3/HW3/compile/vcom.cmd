@@ -1,0 +1,1 @@
+-w -erf C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/compile/HW3.erf -d C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/compile -s C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/library.cfg -j C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/projlib.cfg -work HW3 -O3 -e 100 -work HW3 -2002 C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd 

@@ -1,0 +1,6 @@
+.\src\Q3_Moore.vhd
+.\src\Q3_Mealy.vhd
+.\src\Q4.vhd
+.\src\TestBench\stringdetector_TB.vhd
+.\src\TestBench\stringmealydetector_TB.vhd
+.\src\TestBench\binarytounary_TB.vhd

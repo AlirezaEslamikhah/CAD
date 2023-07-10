@@ -1,0 +1,2 @@
+Breakpoint File Version 1.0
+46,true,"C:/Users/lenovo/Desktop/term6/CAD/project_2/project_2.srcs/sim_1/new/sample_tb.vhd"

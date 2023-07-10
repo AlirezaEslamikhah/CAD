@@ -1,0 +1,93 @@
+timestamp=1688141651361
+
+[~A]
+ModifyID=10
+Version=74
+
+[~MFT]
+0=42|0Q3.mgf|20836|9981
+1=16|1Q3.mgf|18547|11600
+3=12|3Q3.mgf|5655|3013
+
+[binarytounary]
+A/behavioral=A/Behavioral 21|../src/Q4.vhd|12|1*14068
+BinW64/behavioral=3*3931
+I=0*9248
+I/behavioral=I/Behavioral 0*18696
+M=11|2|vef|1688140285188|../src/Q4.vhd|0*8872*0x31d900d82b33e670becb5db3a3c0e2566697d1a6|0*9168*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1688141651276|../src/Q4.vhd|0*18032*0x2350455138ba6ed70758004c05bea5b188af0193|0*18602*0x20116f55b147878295aeff36dce7fc50
+R=../src/Q4.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|80eb5475c300e73e5ee17b670cd3d70ee6ebb7c9e53c085c22c105304a5b35ab59144b44a15324523cada74998390727
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4d07f0fc52dafb01b0c3285a54b9bdc85
+
+[binarytounary_tb]
+A/behavioral=A/Behavioral 21|../src/TestBench/binarytounary_TB.vhd|7|1*18547
+A/tb_architecture=+21|../src/TestBench/binarytounary_TB.vhd|10|1*7201
+BinW64/behavioral=3*5655
+I=0*13174
+I/behavioral=I/Behavioral 0*20836
+M=11|2|vef|1688140540707|../src/TestBench/binarytounary_TB.vhd|0*12859*0xff2718f3e96659688a8fe58e6931bdb36faab1c4|0*13067*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1688141651351|../src/TestBench/binarytounary_TB.vhd|0*14437*0x8f4d19e522b7e7e308f9d5c0dbd3ef5a59340235|0*15110*0x20116f55b147878295aeff36dce7fc50
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vef|1688140503857|../src/TestBench/binarytounary_TB.vhd|0*11142*0x4e52533c37ce18c76757249a47c58fa835d55ef4|0*11648*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/binarytounary_TB.vhd|4
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|d6a6d7399ce5f718fcde8bc9dc829e313248b1adef870ef00c6664113aa1655eeb7af9b2770fb9f5c0c11d0839015ed5
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff407c1ac83c6721efcbdb3d66efd972a1c
+Version/tb_architecture=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beaaad989f9a0855f83ba482242003aaa94
+
+[stringdetector]
+A/behavioral=A/Behavioral 21|../src/Q3_Mealy.vhd|13|1*12844
+BinW64/behavioral=3*3013
+I=0*573
+I/behavioral=I/Behavioral 0*17813
+M=11|2|vef|1688139423750|../src/Q3_Moore.vhd|0*204*0xf9146440f385d058b2629936a46301e685709d9d|0*486*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1688141651253|../src/Q3_Mealy.vhd|0*16761*0xdb57774f908ca4d84e82354ddcb6a5b58f5851f6|0*17712*0x20116f55b147878295aeff36dce7fc50
+R=../src/Q3_Moore.vhd|4
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|68b129bdf4d510b97600e339b444c4439b45a0e0750909dd5b67868b0b0d32ac2eb90c68a6707a8140bede921d7e08f7
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4ff9d80f4d031cbd419b763368c3f3d1c
+
+[stringdetector_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/stringdetector_TB.vhd|9|1*15099
+BinW64/tb_architecture=3*4379
+I=0*2512
+I/tb_architecture=I/TB_ARCHITECTURE 0*18954
+M=11|2|vef|1688139640526|../src/TestBench/stringdetector_TB.vhd|0*2192*0xa788e49d63785430efbae3eb4fddcf8bbbc8ee6a|0*2403*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vef|1688141651298|../src/TestBench/stringdetector_TB.vhd|0*2723*0xb0dd8cc58a53dc9a4eb72ae07e773641c7c2c37c|0*3437*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/stringdetector_TB.vhd|6
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|68b129bdf4d510b97600e339b444c4433da4e6c9522172c34b82cdcffeddb13f8da9e3161b1dc43a0718e29863c71f1d
+Version/tb_architecture=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beaf4ff7558c011a5894d264edb0589044e
+
+[stringmealydetector_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/stringmealydetector_TB.vhd|9|1*16813
+BinW64/tb_architecture=3*5017
+I=0*4991
+I/tb_architecture=I/TB_ARCHITECTURE 0*19880
+M=11|2|vef|1688139730688|../src/TestBench/stringmealydetector_TB.vhd|0*4641*0x5f8cb411384636622ee03fa914487b397bae9575|0*4872*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vef|1688141651322|../src/TestBench/stringmealydetector_TB.vhd|0*6839*0x485db9507e0603beb831f3d56ecf0b40e12df53d|0*7568*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/stringmealydetector_TB.vhd|6
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|082a769c2ce63ef7b8fbb221dc1f2e474660e3ea81a362fd4c0faa6d52a56e63d91a992bd85cce6e025c3230f8413412
+Version/tb_architecture=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534bea51e7f446346af902337baebc60f3838a
+
+[testbench_for_binarytounary]
+Configures=binarytounary_tb.TB_ARCHITECTURE
+E=1*8431
+I=0*12551
+M=2|2|vef|1688140503861|../src/TestBench/binarytounary_TB.vhd|0*12080*0x50821b7bca8e9893d7a070fb9be4b3ac11f55980|0*12414*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/binarytounary_TB.vhd|39
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e51c694b4602367ac8c2520c3da79a1d066b28b4e53bff683f3c57bc95b85ee1bcbb88213a7736a502b2364071c6c15b0d
+
+[testbench_for_stringdetector]
+Configures=stringmealydetector_tb.TB_ARCHITECTURE
+E=1*18083
+I=0*20658
+M=2|2|vef|1688141651325|../src/TestBench/stringmealydetector_TB.vhd|0*20151*0x78b56944ded459acef73e44ce0d4fd49474bebcf|0*20508*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/stringmealydetector_TB.vhd|57
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5ee7c22c8e49814f56388dfb901f7e268fc8c8eefd532e161ef6443745eddea573f7b46d5a76e64b89570cf63c1677315
+
+[~U]
+binarytounary=BinaryToUnary 11|0*8662|
+binarytounary_tb=BinaryToUnary_TB 11|0*12724|
+stringdetector=StringDetector 11|0*0|
+stringdetector_tb=11|0*2052|
+stringmealydetector_tb=11|0*4491|
+testbench_for_binarytounary=TESTBENCH_FOR_binarytounary 2||
+testbench_for_stringdetector=TESTBENCH_FOR_stringdetector 2||

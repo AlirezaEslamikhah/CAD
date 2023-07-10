@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/Desktop/term6/CAD/project_2/project_2.srcs/sources_1/new/sample.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mux_2to1'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/lenovo/Desktop/term6/CAD/project_2/project_2.srcs/sim_1/new/sample_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'mux_2to1_tb'

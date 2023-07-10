@@ -1,0 +1,6 @@
+15
+~E 1 "../src/Q2.vhd" 4 BCD_Adder
+~E 1 "../src/Q2.vhd" 5 BCD_Sum
+~A 1 "../src/Q2.vhd" 15 Behavioral
+~E 1 "../src/Q2.vhd" 5 Q2
+~A 1 "../src/Q2.vhd" 23 Behavioral

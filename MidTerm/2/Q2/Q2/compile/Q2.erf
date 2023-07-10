@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/2/Q2/Q2/src/Q2.vhd" 
+MESSAGE "Compile Entity "Q2"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "Q2"" 
+WARNING ELAB1_0026: "There is no default binding for component "Full_Adder". (No entity named "Full_Adder" was found)." "C:/Users/lenovo/Desktop/term6/CAD/MidTerm/2/Q2/Q2/src/Q2.vhd" 63 0
+SUCCESS "Compile success 0 Errors 1 Warnings  Analysis time :  15.0 [ms]" 

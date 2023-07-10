@@ -1,0 +1,5 @@
+20
+~E 1 "../src/TestQ1.vhd" 6 test
+~A 1 "../src/TestQ1.vhd" 9 Q1TEST
+~E 1 "../src/TestQ1.vhd" 6 testbench
+~A 1 "../src/TestQ1.vhd" 9 sim

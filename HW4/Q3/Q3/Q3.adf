@@ -1,0 +1,44 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Q3
+[Library]
+Q3=.\Q3\Q3.lib
+[$LibMap$]
+Q3=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Q3_Moore.vhd=-1
+/Q3_Mealy.vhd=-1
+/Q4.vhd=-1
+TestBench/stringdetector_TB.vhd=-1
+TestBench/stringdetector_TB_runtest.do=-1
+TestBench/stringmealydetector_TB.vhd=-1
+TestBench/stringmealydetector_TB_runtest.do=-1
+TestBench/binarytounary_TB.vhd=-1
+TestBench/binarytounary_TB_runtest.do=-1
+[Files.Data]
+.\src\Q3_Moore.vhd=VHDL Source Code
+.\src\Q3_Mealy.vhd=VHDL Source Code
+.\src\Q4.vhd=VHDL Source Code
+.\src\TestBench\stringdetector_TB.vhd=VHDL Test Bench
+.\src\TestBench\stringdetector_TB_runtest.do=Macro
+.\src\TestBench\stringmealydetector_TB.vhd=VHDL Test Bench
+.\src\TestBench\stringmealydetector_TB_runtest.do=Macro
+.\src\TestBench\binarytounary_TB.vhd=VHDL Test Bench
+.\src\TestBench\binarytounary_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=stringdetector|Behavioral|0
+ShowHide=ShowTopLevel
+Selected=

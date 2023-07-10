@@ -1,0 +1,53 @@
+timestamp=1681392302932
+
+[~A]
+ModifyID=36
+Version=74
+
+[~MFT]
+0=10|0Q5.mgf|39783|34282
+1=4|1Q5.mgf|52075|49092
+3=2|3Q5.mgf|5528|4820
+
+[com_package]
+E=1*18946
+I=0*17224
+M=3|2|vef|1681134288868|../src/package.vhd|0*16876*0x21a95d1734b3f98b0d44508f323025732ccf865f|0*17141*0x23b75c12e3e89f2ef000564498faa8c2
+R=../src/package.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|755c2b66aa8ec6c25580ff57b75c310c9c51d72ca4c90605f1dca0aafbee1541f1fd047cd8b48c561b485ba3c951e20b
+
+[complex_calculator]
+A/behavioral=A/Behavioral 21|../src/Q5.vhd|19|1*49622
+BinW64/behavioral=3*4820
+I=0*22088
+I/behavioral=I/Behavioral 0*38273
+M=11|2|vef|1681134424461|../src/Q5.vhd|0*1186*0xe7067fc34865182adc7ae403e66e5a0f0bf83b55|0*1563*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1681135371278|../src/Q5.vhd|0*35942*0x55e82ad86cdc12961a4da2a59e5c921294aac1c7|0*36478*0x20116f55b147878295aeff36dce7fc50
+R=../src/Q5.vhd|7
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5fe72c57037504fc585c0f0d25703e71c5584e386e892ce1e47c148143e21e35122b5fdf151d388e5601021ceb55de8e
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff4aeaf64ab545c4ef2de81eb878469bf84
+
+[complex_calculator_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/complex_calculator_TB.vhd|11|1*50565
+BinW64/tb_architecture=3*5528
+I=0*18504
+I/tb_architecture=I/TB_ARCHITECTURE 0*39433
+M=11|2|vef|1681134387701|../src/TestBench/complex_calculator_TB.vhd|0*18102*0x60b67216004c09a1f7e8da4a06eda05d16fec2b4|0*18387*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vef|1681392302914|../src/TestBench/complex_calculator_TB.vhd|0*38576*0xf6b8a3586ec89331ede6bac2152c069e8a04fef6|0*39297*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/complex_calculator_TB.vhd|8
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5fe72c57037504fc585c0f0d25703e71c182b662ea3623de0ee062c6ca5bd7bc517dc5a52e37c52be868fe271e8a777c
+Version/tb_architecture=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beac83acf617b95a617a12b14882faeffe1
+
+[testbench_for_complex_calculator]
+Configures=complex_calculator_tb.TB_ARCHITECTURE
+E=1*52075
+I=0*39783
+M=2|2|vef|1681392302920|../src/TestBench/complex_calculator_TB.vhd|0*20001*0x7f3acaabb4a30135ee91df3448c30bd0b6fe5ba2|0*20375*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/complex_calculator_TB.vhd|60
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5b9ae8a58864f2b6ddea275e8c1ddfb9e0981b91c13d25f7697fb3f5495574a6eaaf5a5302b3e8edcacb0e7f7c7fb080a
+
+[~U]
+com_package=3|0*16492|0*16657
+complex_calculator=11|0*932|
+complex_calculator_tb=11|0*17954|
+testbench_for_complex_calculator=TESTBENCH_FOR_complex_calculator 2||

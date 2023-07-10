@@ -1,0 +1,20 @@
+9
+~E 1 "../src/Q1.vhd" 17 CombinationalCircuit
+~A 1 "../src/Q1.vhd" 27 Behavioral
+~E 1 "../src/Q1.vhd" 129 even
+~A 1 "../src/Q1.vhd" 97 Q
+~E 1 "../src/Q1.vhd" 58 EvenOnesCounter
+~A 1 "../src/Q1.vhd" 64 Behavioral
+~E 1 "../src/Q1.vhd" 5 FullAdder
+~A 1 "../src/Q1.vhd" 14 Behavioral
+~A 1 "../src/Q1.vhd" 19 Q
+~E 1 "../src/Q1.vhd" 112 MainComponent
+~A 1 "../src/Q1.vhd" 120 Behavioral
+~A 1 "../src/Q1.vhd" 153 Q
+~E 1 "../src/Q1.vhd" 27 NBitAdder
+~A 1 "../src/Q1.vhd" 36 Behavioral
+~A 1 "../src/Q1.vhd" 69 Q
+~E 1 "../src/Q1.vhd" 88 OutputGenerator
+~A 1 "../src/Q1.vhd" 97 Behavioral
+~E 1 "../src/Q1.vhd" 159 outt
+~A 1 "../src/Q1.vhd" 130 Q

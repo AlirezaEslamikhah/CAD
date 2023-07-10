@@ -1,0 +1,1056 @@
+# Design: Design HW3 already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (10, 10): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (14, 12): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (10, 10): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (14, 12): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (10, 10): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (9, 9): Keyword 'record' expected.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (10, 10): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (11, 2): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (11, 2): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (15, 12): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (11, 2): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (16, 12): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (11, 2): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (18, 12): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (11, 2): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (21, 12): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (11, 2): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (27, 12): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (11, 2): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (28, 12): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (11, 2): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (28, 12): Identifier expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (10, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (10, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (11, 2): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0015: Q1.vhd : (12, 6): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (12, 13): Design unit declaration expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (13, 28): Unknown identifier "ROWS".
+# Error: COMP96_0078: Q1.vhd : (13, 41): Unknown identifier "COLS".
+# Error: COMP96_0133: Q1.vhd : (13, 28): Cannot find object declaration.
+# Error: COMP96_0094: Q1.vhd : (13, 28): Locally static expression is required in the range definition.
+# Error: COMP96_0081: Q1.vhd : (13, 23): Discrete type expected.
+# Error: COMP96_0248: Q1.vhd : (13, 23): Index constraint in the constrained array definition is invalid.
+# Error: COMP96_0078: Q1.vhd : (15, 27): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (15, 27): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (15, 42): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (15, 42): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (17, 32): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (17, 32): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (17, 43): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (17, 43): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (17, 58): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (17, 58): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (19, 35): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (19, 35): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (21, 31): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (21, 31): Unknown type.
+# Compile failure 20 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0019: Q1.vhd : (6, 2): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (6, 2): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (7, 2): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (18, 28): Unknown identifier "ROWS".
+# Error: COMP96_0078: Q1.vhd : (18, 41): Unknown identifier "COLS".
+# Error: COMP96_0133: Q1.vhd : (18, 28): Cannot find object declaration.
+# Error: COMP96_0094: Q1.vhd : (18, 28): Locally static expression is required in the range definition.
+# Error: COMP96_0081: Q1.vhd : (18, 23): Discrete type expected.
+# Error: COMP96_0248: Q1.vhd : (18, 23): Index constraint in the constrained array definition is invalid.
+# Error: COMP96_0078: Q1.vhd : (20, 27): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (20, 27): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (20, 42): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (20, 42): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (22, 32): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (22, 32): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (22, 43): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (22, 43): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (22, 58): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (22, 58): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (24, 35): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (24, 35): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (26, 31): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (26, 31): Unknown type.
+# Compile failure 20 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "pack"
+# A feature of VHDL 2008 has been detected. Use the -2008 argument of the vcom command.
+# Error: COMP96_0019: Q1.vhd : (5, 4): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (5, 4): ';' expected.
+# Error: COMP96_0016: Q1.vhd : (5, 11): Design unit declaration expected.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (18, 28): Unknown identifier "ROWS".
+# Error: COMP96_0078: Q1.vhd : (18, 41): Unknown identifier "COLS".
+# Error: COMP96_0133: Q1.vhd : (18, 28): Cannot find object declaration.
+# Error: COMP96_0094: Q1.vhd : (18, 28): Locally static expression is required in the range definition.
+# Error: COMP96_0081: Q1.vhd : (18, 23): Discrete type expected.
+# Error: COMP96_0248: Q1.vhd : (18, 23): Index constraint in the constrained array definition is invalid.
+# Error: COMP96_0078: Q1.vhd : (20, 27): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (20, 27): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (20, 42): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (20, 42): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (22, 32): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (22, 32): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (22, 43): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (22, 43): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (22, 58): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (22, 58): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (24, 35): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (24, 35): Unknown type.
+# Error: COMP96_0078: Q1.vhd : (26, 31): Unknown identifier "Matrix".
+# Error: COMP96_0064: Q1.vhd : (26, 31): Unknown type.
+# Compile failure 20 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (50, 0): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (50, 0): ';' expected.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0117: Q1.vhd : (39, 26): Array type for "Result" is not constrained.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (40, 19): Unknown identifier "complex_matrix".
+# Error: COMP96_0064: Q1.vhd : (40, 19): Unknown type.
+# Error: COMP96_0289: Q1.vhd : (44, 17): Prefix of index must be an array.
+# Error: COMP96_0289: Q1.vhd : (45, 17): Prefix of index must be an array.
+# Error: COMP96_0106: Q1.vhd : (48, 16): Returned value type does not match the type declared in function declaration.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Error: ELAB1_0003: Q1.vhd : (30, 0): The subprogram "Multiply_Matrices" has no corresponding body declaration.
+# Error: ELAB1_0003: Q1.vhd : (31, 0): The subprogram "fill_randomly" has no corresponding body declaration.
+# Error: ELAB1_0003: Q1.vhd : (32, 0): The subprogram "print_matrix" has no corresponding body declaration.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Error: ELAB1_0003: Q1.vhd : (30, 0): The subprogram "Multiply_Matrices" has no corresponding body declaration.
+# Error: ELAB1_0003: Q1.vhd : (31, 0): The subprogram "fill_randomly" has no corresponding body declaration.
+# Error: ELAB1_0003: Q1.vhd : (32, 0): The subprogram "print_matrix" has no corresponding body declaration.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Error: ELAB1_0003: Q1.vhd : (30, 0): The subprogram "Multiply_Matrices" has no corresponding body declaration.
+# Error: ELAB1_0003: Q1.vhd : (31, 0): The subprogram "fill_randomly" has no corresponding body declaration.
+# Error: ELAB1_0003: Q1.vhd : (32, 0): The subprogram "print_matrix" has no corresponding body declaration.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Error: ELAB1_0003: Q1.vhd : (31, 0): The subprogram "fill_randomly" has no corresponding body declaration.
+# Error: ELAB1_0003: Q1.vhd : (32, 0): The subprogram "print_matrix" has no corresponding body declaration.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (74, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (74, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (74, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (74, 26): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0078: Q1.vhd : (75, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (75, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (75, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (75, 26): Explicit type conversions are allowed between closely related types only.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0055: Q1.vhd : (6, 20): Cannot find context item "IEEE.MATH_REAL.COMPLEX".
+# Error: COMP96_0055: Q1.vhd : (8, 20): Cannot find context item "IEEE.MATH_REAL.MATH_REAL".
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (79, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (79, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (79, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (79, 26): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0078: Q1.vhd : (80, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (80, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (80, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (80, 26): Explicit type conversions are allowed between closely related types only.
+# Compile failure 10 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Error: COMP96_0055: Q1.vhd : (6, 20): Cannot find context item "IEEE.MATH_REAL.COMPLEX".
+# Error: COMP96_0055: Q1.vhd : (8, 20): Cannot find context item "IEEE.MATH_REAL.MATH_REAL".
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (79, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (79, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (79, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (79, 26): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0078: Q1.vhd : (80, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (80, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (80, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (80, 26): Explicit type conversions are allowed between closely related types only.
+# Compile failure 10 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (79, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (79, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (79, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (79, 26): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0078: Q1.vhd : (80, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (80, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (80, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (80, 26): Explicit type conversions are allowed between closely related types only.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (84, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (84, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (84, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (84, 26): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0078: Q1.vhd : (85, 26): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (85, 26): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (85, 26): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (85, 26): Explicit type conversions are allowed between closely related types only.
+# Compile failure 8 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (84, 21): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (84, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (84, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "random".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (84, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (84, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (84, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (84, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (84, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (84, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (84, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (84, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (84, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (84, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (84, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (84, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (84, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (84, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (84, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (84, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (84, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (84, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (84, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (84, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (84, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0071: Q1.vhd : (85, 29): Operator "mod" is not defined for such operands.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (85, 66): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (88, 7): ';' expected.
+# Error: COMP96_0111: Q1.vhd : (89, 6): Labels do not match.
+# Error: COMP96_0016: Q1.vhd : (99, 1): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (99, 17): Identifier expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0019: Q1.vhd : (85, 66): Keyword 'end' expected.
+# Error: COMP96_0015: Q1.vhd : (88, 7): ';' expected.
+# Error: COMP96_0111: Q1.vhd : (89, 6): Labels do not match.
+# Error: COMP96_0016: Q1.vhd : (99, 1): Design unit declaration expected.
+# Error: COMP96_0018: Q1.vhd : (99, 17): Identifier expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (85, 41): Unknown identifier "random".
+# Error: COMP96_0078: Q1.vhd : (85, 48): Unknown identifier "RANDOM".
+# Error: COMP96_0133: Q1.vhd : (85, 48): Cannot find object declaration.
+# Error: COMP96_0133: Q1.vhd : (85, 41): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (85, 41): Prefix of index must be an array.
+# Error: COMP96_0149: Q1.vhd : (85, 41): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0617: Q1.vhd : (85, 21): Assignment target incompatible with right side. Cannot convert 'INTEGER' to 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 10 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "random".
+# Error: COMP96_0078: Q1.vhd : (85, 28): Unknown identifier "RANDOM".
+# Error: COMP96_0133: Q1.vhd : (85, 28): Cannot find object declaration.
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (85, 21): Prefix of index must be an array.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 9 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "random".
+# Error: COMP96_0078: Q1.vhd : (85, 28): Unknown identifier "RANDOM".
+# Error: COMP96_0133: Q1.vhd : (85, 28): Cannot find object declaration.
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0289: Q1.vhd : (85, 21): Prefix of index must be an array.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 9 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (85, 21): Unknown identifier "RANDOM".
+# Error: COMP96_0133: Q1.vhd : (85, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (85, 21): Undefined type of expression. Expected type 'REAL'.
+# Error: COMP96_0078: Q1.vhd : (86, 21): Unknown identifier "rand_real".
+# Error: COMP96_0133: Q1.vhd : (86, 21): Cannot find object declaration.
+# Error: COMP96_0077: Q1.vhd : (86, 21): Undefined type of expression. Expected type 'REAL'.
+# Compile failure 6 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Error: ELAB1_0003: Q1.vhd : (37, 0): The subprogram "print_matrix" has no corresponding body declaration.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (54, 5): Unknown identifier "put".
+# Error: COMP96_0066: Q1.vhd : (54, 5): Cannot find "put" procedure declaration.
+# Error: COMP96_0078: Q1.vhd : (55, 5): Unknown identifier "put".
+# Error: COMP96_0066: Q1.vhd : (55, 5): Cannot find "put" procedure declaration.
+# Error: COMP96_0078: Q1.vhd : (56, 5): Unknown identifier "put".
+# Error: COMP96_0066: Q1.vhd : (56, 5): Cannot find "put" procedure declaration.
+# Error: COMP96_0078: Q1.vhd : (57, 5): Unknown identifier "put".
+# Error: COMP96_0066: Q1.vhd : (57, 5): Cannot find "put" procedure declaration.
+# Error: COMP96_0078: Q1.vhd : (59, 4): Unknown identifier "new_line".
+# Error: COMP96_0066: Q1.vhd : (59, 4): Cannot find "new_line" procedure declaration.
+# Compile failure 10 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0078: Q1.vhd : (54, 65): Unknown identifier "im".
+# Error: COMP96_0137: Q1.vhd : (54, 57): This parameter is not compatible with the parameter allowed for attribute 'IMAGE.
+# Error: COMP96_0078: Q1.vhd : (54, 32): Unknown identifier "re".
+# Error: COMP96_0137: Q1.vhd : (54, 24): This parameter is not compatible with the parameter allowed for attribute 'IMAGE.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0361: Q1.vhd : (54, 46): 'imag is not an attribute of this prefix.
+# Error: COMP96_0289: Q1.vhd : (54, 50): Prefix of index must be an array.
+# Error: COMP96_0078: Q1.vhd : (54, 32): Unknown identifier "re".
+# Error: COMP96_0137: Q1.vhd : (54, 24): This parameter is not compatible with the parameter allowed for attribute 'IMAGE.
+# Error: COMP96_0086: Q1.vhd : (54, 13): String expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0361: Q1.vhd : (54, 13): 'imag is not an attribute of this prefix.
+# Error: COMP96_0361: Q1.vhd : (54, 45): 'imag is not an attribute of this prefix.
+# Error: COMP96_0289: Q1.vhd : (54, 49): Prefix of index must be an array.
+# Error: COMP96_0289: Q1.vhd : (54, 17): Prefix of index must be an array.
+# Error: COMP96_0086: Q1.vhd : (54, 13): String expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0361: Q1.vhd : (54, 13): 'imag is not an attribute of this prefix.
+# Error: COMP96_0361: Q1.vhd : (54, 47): 'imag is not an attribute of this prefix.
+# Error: COMP96_0289: Q1.vhd : (54, 51): Prefix of index must be an array.
+# Error: COMP96_0289: Q1.vhd : (54, 17): Prefix of index must be an array.
+# Error: COMP96_0086: Q1.vhd : (54, 13): String expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0361: Q1.vhd : (55, 13): 'imag is not an attribute of this prefix.
+# Error: COMP96_0361: Q1.vhd : (55, 47): 'imag is not an attribute of this prefix.
+# Error: COMP96_0289: Q1.vhd : (55, 51): Prefix of index must be an array.
+# Error: COMP96_0289: Q1.vhd : (55, 17): Prefix of index must be an array.
+# Error: COMP96_0086: Q1.vhd : (55, 13): String expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0361: Q1.vhd : (55, 13): 'imag is not an attribute of this prefix.
+# Error: COMP96_0361: Q1.vhd : (55, 47): 'imag is not an attribute of this prefix.
+# Error: COMP96_0289: Q1.vhd : (55, 51): Prefix of index must be an array.
+# Error: COMP96_0289: Q1.vhd : (55, 17): Prefix of index must be an array.
+# Error: COMP96_0086: Q1.vhd : (55, 13): String expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Error: COMP96_0111: Q1.vhd : (60, 7): Labels do not match.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "ComplexMatrix"
+# Compile Package Body "ComplexMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "CMatrix"
+# Compile Package Body "CMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "CMatrix"
+# Compile Package Body "CMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "CMatrix"
+# Compile Package Body "CMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "CMatrix"
+# Compile Package Body "CMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "CMatrix"
+# Compile Package Body "CMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "CMatrix"
+# Compile Package Body "CMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q1.vhd
+# Compile Package "CMatrix"
+# Compile Package Body "CMatrix"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work HW3 -2002  $dsn/src/TestQ1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/TestQ1.vhd
+# Compile Entity "testbench"
+# Compile Architecture "sim" of Entity "testbench"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# Top-level unit(s) detected:
+# Entity => testbench
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/TestQ1.vhd
+# Compile Architecture "sim" of Entity "testbench"
+# Error: COMP96_0078: TestQ1.vhd : (29, 14): Unknown identifier "MULL".
+# Error: COMP96_0133: TestQ1.vhd : (29, 14): Cannot find object declaration.
+# Error: COMP96_0289: TestQ1.vhd : (29, 14): Prefix of index must be an array.
+# Error: COMP96_0077: TestQ1.vhd : (29, 14): Undefined type of expression. Expected type 'Matrix'.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  47.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/TestQ1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/TestQ1.vhd
+# Compile Entity "testbench"
+# Compile Architecture "sim" of Entity "testbench"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/TestQ1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/TestQ1.vhd
+# Compile Entity "test"
+# Compile Architecture "Q1TEST" of Entity "test"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/TestQ1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/TestQ1.vhd
+# Compile Entity "test"
+# Compile Architecture "Q1TEST" of Entity "test"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd
+# Compile Package "recursive_pkg"
+# Compile Package Body "recursive_pkg"
+# Warning: COMP96_0048: Q2.vhd : (31, 2): This function may complete without return statement.
+# Error: COMP96_0015: Q2.vhd : (31, 6): ';' expected.
+# Error: COMP96_0019: Q2.vhd : (31, 18): Keyword 'end' expected.
+# Error: COMP96_0015: Q2.vhd : (31, 18): ';' expected.
+# Compile failure 3 Errors 1 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd
+# Compile Package "recursive_pkg"
+# Compile Package Body "recursive_pkg"
+# The currently compiled unit contains subprogram specifications with minor inconsistencies between the declaration and the body.
+# Use -relax to ignore such inconsistencies.
+# Error: COMP96_0321: Q2.vhd : (11, 81): Subprogram specification of the body must conform to the subprogram specification of the declaration.
+# Error: COMP96_0569: Q2.vhd : (15, 18): Case expression must be of a locally static subtype. Use -relax to allow expressions of a nonstatic subtype.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd
+# Compile Package "recursive_pkg"
+# Compile Package Body "recursive_pkg"
+# The currently compiled unit contains subprogram specifications with minor inconsistencies between the declaration and the body.
+# Use -relax to ignore such inconsistencies.
+# Error: COMP96_0321: Q2.vhd : (11, 81): Subprogram specification of the body must conform to the subprogram specification of the declaration.
+# Error: COMP96_0569: Q2.vhd : (15, 18): Case expression must be of a locally static subtype. Use -relax to allow expressions of a nonstatic subtype.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd
+# Compile Package "recursive_pkg"
+# Compile Package Body "recursive_pkg"
+# The currently compiled unit contains subprogram specifications with minor inconsistencies between the declaration and the body.
+# Use -relax to ignore such inconsistencies.
+# Error: COMP96_0321: Q2.vhd : (11, 77): Subprogram specification of the body must conform to the subprogram specification of the declaration.
+# Error: COMP96_0569: Q2.vhd : (15, 18): Case expression must be of a locally static subtype. Use -relax to allow expressions of a nonstatic subtype.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd
+# Compile Package "recursive_pkg"
+# Compile Package Body "recursive_pkg"
+# Error: COMP96_0569: Q2.vhd : (15, 18): Case expression must be of a locally static subtype. Use -relax to allow expressions of a nonstatic subtype.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd
+# Compile Package "recursive_pkg"
+# Compile Package Body "recursive_pkg"
+# Error: COMP96_0569: Q2.vhd : (15, 18): Case expression must be of a locally static subtype. Use -relax to allow expressions of a nonstatic subtype.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd
+# Compile Package "Recursive_Functions"
+# Compile Package Body "Recursive_Functions"
+# Error: COMP96_0569: Q2.vhd : (21, 18): Case expression must be of a locally static subtype. Use -relax to allow expressions of a nonstatic subtype.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work HW3 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW3/HW3/HW3/src/Q2.vhd
+# Compile Package "Recursive_Functions"
+# Compile Package Body "Recursive_Functions"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]

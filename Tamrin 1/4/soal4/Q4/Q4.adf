@@ -1,0 +1,34 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Q4
+[Library]
+Q4=.\Q4\Q4.lib
+[$LibMap$]
+Q4=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Q4.vhd=-1
+/package.vhd=-1
+TestBench/q4_TB.vhd=-1
+TestBench/q4_TB_runtest.do=-1
+[Files.Data]
+.\src\Q4.vhd=VHDL Source Code
+.\src\package.vhd=VHDL Source Code
+.\src\TestBench\q4_TB.vhd=VHDL Test Bench
+.\src\TestBench\q4_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=q4_tb|TB_ARCHITECTURE|0
+ShowHide=ShowTopLevel
+Selected=

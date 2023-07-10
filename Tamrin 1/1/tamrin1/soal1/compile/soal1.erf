@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: D:/active hdl/tamrin1/soal1/src/TestBench/q1_TB.vhd" 
+MESSAGE "Compile Entity "q1_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "q1_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_q1"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]" 

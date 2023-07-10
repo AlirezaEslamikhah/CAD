@@ -1,0 +1,186 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/TestBench/counter_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/TestBench/counter_TB.vhd
+# Compile Entity "counter_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "counter_tb"
+# Compile Configuration "TESTBENCH_FOR_counter"
+# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
+asim -O5 +access +r +m+counter_tb counter_tb TB_ARCHITECTURE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6594 kB (elbread=427 elab2=6028 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\lenovo\Desktop\term6\CAD\MidTerm\1\Q1\Q1\src\wave.asdb
+#  2:09 PM, Friday, June 2, 2023
+#  Simulation has been initialized
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 370 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 470 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 570 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 670 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+counter_tb counter_tb TB_ARCHITECTURE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 6594 kB (elbread=427 elab2=6028 kernel=139 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\lenovo\Desktop\term6\CAD\MidTerm\1\Q1\Q1\src\wave.asdb
+#  2:09 PM, Friday, June 2, 2023
+#  Simulation has been initialized
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 370 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 470 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 570 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# VSIM: Simulation has finished.
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Error: COMP96_0019: Q1.vhd : (33, 9): Keyword 'if' expected.
+# Error: COMP96_0015: Q1.vhd : (33, 9): ';' expected.
+# Error: COMP96_0019: Q1.vhd : (36, 5): Keyword 'process' expected.
+# Error: COMP96_0019: Q1.vhd : (37, 0): Keyword 'end' expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Error: COMP96_0019: Q1.vhd : (33, 9): Keyword 'if' expected.
+# Error: COMP96_0015: Q1.vhd : (33, 9): ';' expected.
+# Error: COMP96_0019: Q1.vhd : (36, 5): Keyword 'process' expected.
+# Error: COMP96_0019: Q1.vhd : (37, 0): Keyword 'end' expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Error: COMP96_0019: Q1.vhd : (33, 9): Keyword 'if' expected.
+# Error: COMP96_0015: Q1.vhd : (33, 9): ';' expected.
+# Error: COMP96_0019: Q1.vhd : (36, 5): Keyword 'process' expected.
+# Error: COMP96_0019: Q1.vhd : (37, 0): Keyword 'end' expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Error: COMP96_0019: Q1.vhd : (33, 9): Keyword 'if' expected.
+# Error: COMP96_0015: Q1.vhd : (33, 9): ';' expected.
+# Error: COMP96_0019: Q1.vhd : (36, 5): Keyword 'process' expected.
+# Error: COMP96_0019: Q1.vhd : (37, 0): Keyword 'end' expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Error: COMP96_0019: Q1.vhd : (33, 9): Keyword 'if' expected.
+# Error: COMP96_0015: Q1.vhd : (33, 9): ';' expected.
+# Error: COMP96_0019: Q1.vhd : (36, 5): Keyword 'process' expected.
+# Error: COMP96_0019: Q1.vhd : (37, 0): Keyword 'end' expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Error: COMP96_0019: Q1.vhd : (34, 9): Keyword 'if' expected.
+# Error: COMP96_0015: Q1.vhd : (34, 9): ';' expected.
+# Error: COMP96_0019: Q1.vhd : (37, 5): Keyword 'process' expected.
+# Error: COMP96_0019: Q1.vhd : (38, 0): Keyword 'end' expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Error: COMP96_0019: Q1.vhd : (34, 9): Keyword 'if' expected.
+# Error: COMP96_0015: Q1.vhd : (34, 9): ';' expected.
+# Error: COMP96_0019: Q1.vhd : (37, 5): Keyword 'process' expected.
+# Error: COMP96_0019: Q1.vhd : (38, 0): Keyword 'end' expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q1 -2002  $dsn/src/Q1.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/MidTerm/1/Q1/Q1/src/Q1.vhd
+# Compile Entity "Counter"
+# Compile Architecture "Behavioral" of Entity "Counter"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]

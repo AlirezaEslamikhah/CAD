@@ -1,0 +1,26 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=HW3
+[Library]
+HW3=.\HW3\HW3.lib
+[$LibMap$]
+HW3=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Q1.vhd=-1
+/TestQ1.vhd=-1
+/Q2.vhd=-1
+[Files.Data]
+.\src\Q1.vhd=VHDL Source Code
+.\src\TestQ1.vhd=VHDL Source Code
+.\src\Q2.vhd=VHDL Source Code

@@ -1,0 +1,1 @@
+-w -erf "d:/active hdl/soal4/Q4/compile/Q4.erf" -d "d:/active hdl/soal4/Q4/compile" -s "d:/active hdl/soal4/library.cfg" -j "d:/active hdl/soal4/Q4/projlib.cfg" -work Q4 -O3 -e 100 -work Q4 -2002 "d:/active hdl/soal4/Q4/src/TestBench/q4_TB.vhd" 

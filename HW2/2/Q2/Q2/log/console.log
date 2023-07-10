@@ -1,0 +1,331 @@
+# Design: Design Q2 already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# Top-level unit(s) detected:
+# Entity => SquareRoot
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0617: Q2.vhd : (19, 23): Assignment target incompatible with right side. Cannot convert 'INTEGER' to 'REAL'.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  62.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0617: Q2.vhd : (19, 23): Assignment target incompatible with right side. Cannot convert 'INTEGER' to 'REAL'.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0617: Q2.vhd : (19, 23): Assignment target incompatible with right side. Cannot convert 'INTEGER' to 'REAL'.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0093: Q2.vhd : (20, 27): The type of a parameter in a subprogram call does not match to a formal parameter of the "ieee.MATH_REAL.SQRT(X : REAL) return REAL" subprogram.
+# Error: COMP96_0617: Q2.vhd : (20, 22): Assignment target incompatible with right side. Cannot convert 'REAL' to 'INTEGER'.
+# Error: COMP96_0093: Q2.vhd : (21, 35): The type of a parameter in a subprogram call does not match to a formal parameter of the "ieee.MATH_REAL.CEIL(X : REAL) return REAL" subprogram.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0078: Q2.vhd : (20, 22): Unknown identifier "math".
+# Error: COMP96_0133: Q2.vhd : (20, 22): Cannot find object declaration.
+# Error: COMP96_0289: Q2.vhd : (20, 26): Prefix of index must be an array.
+# Error: COMP96_0077: Q2.vhd : (20, 22): Undefined type of expression. Expected type 'INTEGER'.
+# Error: COMP96_0093: Q2.vhd : (21, 35): The type of a parameter in a subprogram call does not match to a formal parameter of the "ieee.MATH_REAL.CEIL(X : REAL) return REAL" subprogram.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0078: Q2.vhd : (20, 22): Unknown identifier "math_real".
+# Error: COMP96_0133: Q2.vhd : (20, 22): Cannot find object declaration.
+# Error: COMP96_0289: Q2.vhd : (20, 31): Prefix of index must be an array.
+# Error: COMP96_0077: Q2.vhd : (20, 22): Undefined type of expression. Expected type 'INTEGER'.
+# Error: COMP96_0093: Q2.vhd : (21, 35): The type of a parameter in a subprogram call does not match to a formal parameter of the "ieee.MATH_REAL.CEIL(X : REAL) return REAL" subprogram.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0078: Q2.vhd : (20, 22): Unknown identifier "math_real".
+# Error: COMP96_0133: Q2.vhd : (20, 22): Cannot find object declaration.
+# Error: COMP96_0289: Q2.vhd : (20, 31): Prefix of index must be an array.
+# Error: COMP96_0077: Q2.vhd : (20, 22): Undefined type of expression. Expected type 'INTEGER'.
+# Error: COMP96_0093: Q2.vhd : (21, 35): The type of a parameter in a subprogram call does not match to a formal parameter of the "ieee.MATH_REAL.CEIL(X : REAL) return REAL" subprogram.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0078: Q2.vhd : (20, 38): Unknown identifier "x".
+# Error: COMP96_0133: Q2.vhd : (20, 38): Cannot find object declaration.
+# Error: COMP96_0110: Q2.vhd : (20, 3): Signal cannot be the target of a variable assignment.
+# Error: COMP96_0149: Q2.vhd : (20, 38): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0078: Q2.vhd : (21, 22): Unknown identifier "math_real".
+# Error: COMP96_0133: Q2.vhd : (21, 22): Cannot find object declaration.
+# Error: COMP96_0289: Q2.vhd : (21, 31): Prefix of index must be an array.
+# Error: COMP96_0077: Q2.vhd : (21, 22): Undefined type of expression. Expected type 'INTEGER'.
+# Error: COMP96_0093: Q2.vhd : (22, 35): The type of a parameter in a subprogram call does not match to a formal parameter of the "ieee.MATH_REAL.CEIL(X : REAL) return REAL" subprogram.
+# Compile failure 9 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0078: Q2.vhd : (20, 50): Unknown identifier "x".
+# Error: COMP96_0133: Q2.vhd : (20, 50): Cannot find object declaration.
+# Error: COMP96_0110: Q2.vhd : (20, 3): Signal cannot be the target of a variable assignment.
+# Error: COMP96_0149: Q2.vhd : (20, 50): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0149: Q2.vhd : (20, 35): Explicit type conversions are allowed between closely related types only.
+# Error: COMP96_0078: Q2.vhd : (21, 22): Unknown identifier "math_real".
+# Error: COMP96_0133: Q2.vhd : (21, 22): Cannot find object declaration.
+# Error: COMP96_0289: Q2.vhd : (21, 31): Prefix of index must be an array.
+# Error: COMP96_0077: Q2.vhd : (21, 22): Undefined type of expression. Expected type 'INTEGER'.
+# Error: COMP96_0093: Q2.vhd : (22, 35): The type of a parameter in a subprogram call does not match to a formal parameter of the "ieee.MATH_REAL.CEIL(X : REAL) return REAL" subprogram.
+# Compile failure 10 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Error: COMP96_0020: Q2.vhd : (14, 5): Variable can be declared only in a process or subprogram.
+# Error: COMP96_0020: Q2.vhd : (15, 5): Variable can be declared only in a process or subprogram.
+# Error: COMP96_0020: Q2.vhd : (16, 2): Variable can be declared only in a process or subprogram.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/TestBench/squareroot_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/TestBench/squareroot_TB.vhd
+# Compile Entity "squareroot_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "squareroot_tb"
+# Compile Configuration "TESTBENCH_FOR_squareroot"
+# Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/TestBench/squareroot_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/TestBench/squareroot_TB.vhd
+# Compile Entity "squareroot_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "squareroot_tb"
+# Error: COMP96_0019: TestBench/squareroot_TB.vhd : (41, 5): Keyword 'process' expected.
+# Error: COMP96_0019: TestBench/squareroot_TB.vhd : (43, 1): Keyword 'end' expected.
+# Error: COMP96_0016: TestBench/squareroot_TB.vhd : (43, 15): Design unit declaration expected.
+# Error: COMP96_0018: TestBench/squareroot_TB.vhd : (46, 8): Identifier expected.
+# Error: COMP96_0016: TestBench/squareroot_TB.vhd : (46, 15): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/TestBench/squareroot_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/TestBench/squareroot_TB.vhd
+# Compile Entity "squareroot_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "squareroot_tb"
+# Compile Configuration "TESTBENCH_FOR_squareroot"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/TestBench/squareroot_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/TestBench/squareroot_TB.vhd
+# Compile Entity "squareroot_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "squareroot_tb"
+# Compile Configuration "TESTBENCH_FOR_squareroot"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -O5 +access +r +m+squareroot_tb squareroot_tb TB_ARCHITECTURE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5565 kB (elbread=427 elab2=4999 kernel=138 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\lenovo\Desktop\term6\CAD\HW2\2\Q2\Q2\src\wave.asdb
+#  7:12 PM, Wednesday, May 31, 2023
+#  Simulation has been initialized
+run
+# KERNEL: WARNING: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /squareroot_tb/UUT,  Process: line__16.
+endsim
+# KERNEL: stopped at time: 30007612900 ns
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+squareroot_tb squareroot_tb TB_ARCHITECTURE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5565 kB (elbread=427 elab2=4999 kernel=138 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\lenovo\Desktop\term6\CAD\HW2\2\Q2\Q2\src\wave.asdb
+#  7:12 PM, Wednesday, May 31, 2023
+#  Simulation has been initialized
+run
+# KERNEL: WARNING: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /squareroot_tb/UUT,  Process: line__16.
+# Error: Cannot trace signals while simulation is running.
+# Error: Cannot trace signals while simulation is running.
+endsim
+# KERNEL: stopped at time: 38669319200 ns
+# VSIM: Simulation has finished.
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/Q2.vhd $dsn/src/TestBench/squareroot_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/Q2.vhd
+# Compile Entity "SquareRoot"
+# Compile Architecture "Behavioral" of Entity "SquareRoot"
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/TestBench/squareroot_TB.vhd
+# Compile Entity "squareroot_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "squareroot_tb"
+# Compile Configuration "TESTBENCH_FOR_squareroot"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+# Error: Accelerated Waveform: Simulation database is not connected. Initialize simulation or load simulation database by opening waveform file (AWC, ASDB).
+asim -O5 +access +r +m+squareroot_tb squareroot_tb TB_ARCHITECTURE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5565 kB (elbread=427 elab2=4999 kernel=138 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\lenovo\Desktop\term6\CAD\HW2\2\Q2\Q2\src\wave.asdb
+#  7:13 PM, Wednesday, May 31, 2023
+#  Simulation has been initialized
+run
+# KERNEL: WARNING: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /squareroot_tb/UUT,  Process: line__16.
+# Error: Cannot trace signals while simulation is running.
+# Error: Cannot trace signals while simulation is running.
+endsim
+# KERNEL: stopped at time: 35585174500 ns
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+squareroot_tb squareroot_tb TB_ARCHITECTURE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5565 kB (elbread=427 elab2=4999 kernel=138 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\lenovo\Desktop\term6\CAD\HW2\2\Q2\Q2\src\wave.asdb
+#  7:14 PM, Wednesday, May 31, 2023
+#  Simulation has been initialized
+run
+# KERNEL: WARNING: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /squareroot_tb/UUT,  Process: line__16.
+endsim
+# KERNEL: stopped at time: 11976283300 ns
+# VSIM: Simulation has finished.
+asim -O5 +access +r +m+squareroot_tb squareroot_tb TB_ARCHITECTURE
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+acom -O3 -e 100 -work Q2 -2002  $dsn/src/TestBench/squareroot_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/TestBench/squareroot_TB.vhd
+# Compile Entity "squareroot_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "squareroot_tb"
+# Compile Configuration "TESTBENCH_FOR_squareroot"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 5565 kB (elbread=427 elab2=4999 kernel=138 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\lenovo\Desktop\term6\CAD\HW2\2\Q2\Q2\src\wave.asdb
+#  7:15 PM, Wednesday, May 31, 2023
+#  Simulation has been initialized
+run
+# KERNEL: WARNING: NUMERIC_STD.TO_INTEGER: metavalue detected, returning 0
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /squareroot_tb/UUT,  Process: line__16.
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+# VSIM: 1 object(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/wave.asdb'.
+# VSIM: 1 object(s) traced.
+run
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+endsim
+# VSIM: Simulation has finished.
+# Waveform file 'C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/untitled.awc' connected to 'C:/Users/lenovo/Desktop/term6/CAD/HW2/2/Q2/Q2/src/untitled.asdb'.
+# Adding file C:\Users\lenovo\Desktop\term6\CAD\HW2\2\Q2\Q2\src\untitled.asdb ... Done
+# Adding file C:\Users\lenovo\Desktop\term6\CAD\HW2\2\Q2\Q2\src\untitled.awc ... Done

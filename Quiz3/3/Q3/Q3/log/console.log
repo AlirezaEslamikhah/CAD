@@ -1,0 +1,148 @@
+# Design: Design Q3 already active.
+# DESIGN: Default Design Language: VHDL
+# DESIGN: Default BDE Language: VHDL
+# DESIGN: Flow Manager: Not Defined
+acom -reorder -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Error: COMP96_0055: Q3.vhd : (5, 10): Cannot find context item "work.matrix".
+# Error: COMP96_0078: Q3.vhd : (10, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (10, 15): Unknown type.
+# Error: COMP96_0078: Q3.vhd : (11, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (11, 15): Unknown type.
+# Error: COMP96_0056: Q3.vhd : (17, 1): Cannot find referenced entity declaration "matrix_calc".
+# Compile failure 6 Errors 0 Warnings  Analysis time :  63.0 [ms]
+acom -reorder -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Incorrect order of units detected.
+# Automatic reorder and incremental recompilation of required units in progress.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Error: COMP96_0055: Q3.vhd : (5, 10): Cannot find context item "work.matrix".
+# Error: COMP96_0078: Q3.vhd : (10, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (10, 15): Unknown type.
+# Error: COMP96_0078: Q3.vhd : (11, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (11, 15): Unknown type.
+# Error: COMP96_0056: Q3.vhd : (17, 1): Cannot find referenced entity declaration "matrix_calc".
+# Compile failure 6 Errors 0 Warnings  Analysis time :  15.0 [ms]
+acom -reorder -O3 -e 100 -work Q3 -2002  $dsn/src/package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/package.vhd
+# Compile Package "my_package"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -reorder -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Top-level unit(s) detected:
+# Entity => matrix_calc
+# Compile success 0 Errors 0 Warnings  Analysis time :  32.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Error: COMP96_0055: Q3.vhd : (5, 10): Cannot find context item "work.Q3".
+# Error: COMP96_0078: Q3.vhd : (10, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (10, 15): Unknown type.
+# Error: COMP96_0078: Q3.vhd : (11, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (11, 15): Unknown type.
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Compile failure 5 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Error: COMP96_0055: Q3.vhd : (5, 10): Cannot find context item "work.Q3".
+# Error: COMP96_0078: Q3.vhd : (10, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (10, 15): Unknown type.
+# Error: COMP96_0078: Q3.vhd : (11, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (11, 15): Unknown type.
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Compile failure 5 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Error: COMP96_0055: Q3.vhd : (5, 10): Cannot find context item "work.Q3".
+# Error: COMP96_0078: Q3.vhd : (10, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (10, 15): Unknown type.
+# Error: COMP96_0078: Q3.vhd : (11, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (11, 15): Unknown type.
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Compile failure 5 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Error: COMP96_0055: Q3.vhd : (5, 10): Cannot find context item "work.Q3".
+# Error: COMP96_0078: Q3.vhd : (10, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (10, 15): Unknown type.
+# Error: COMP96_0078: Q3.vhd : (11, 15): Unknown identifier "matrix_2x2".
+# Error: COMP96_0064: Q3.vhd : (11, 15): Unknown type.
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "matrix_calc"
+# Compile Architecture "behavioral" of Entity "matrix_calc"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/package.vhd
+# Compile Package "Q3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/package.vhd
+# Compile Package "Q3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "Q3"
+# Compile Architecture "behavioral" of Entity "Q3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "Q3"
+# Compile Architecture "behavioral" of Entity "Q3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/Q3.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/Q3.vhd
+# Compile Entity "Q3"
+# Compile Architecture "behavioral" of Entity "Q3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work Q3 -2002  $dsn/src/package.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:/Users/lenovo/Desktop/term6/CAD/Quiz3/3/Q3/Q3/src/package.vhd
+# Compile Package "Q3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]

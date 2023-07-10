@@ -1,0 +1,6 @@
+19
+~E 1 "../src/tamrin1.vhd" 7 Q1
+~A 1 "../src/tamrin1.vhd" 15 Behavioral
+~E 1 "../src/TestBench/q1_TB.vhd" 6 q1_tb
+~A 1 "../src/TestBench/q1_TB.vhd" 9 TB_ARCHITECTURE
+~C 1 "../src/TestBench/q1_TB.vhd" 44 testbench_for_q1
