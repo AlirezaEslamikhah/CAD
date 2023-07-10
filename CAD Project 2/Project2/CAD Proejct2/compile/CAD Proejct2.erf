@@ -1,0 +1,11 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:/Users/lenovo/Desktop/cad final/CAD Project 2/Project2/CAD Proejct2/src/TestBench/single_port_ram_vhdl_TB.vhd" 
+MESSAGE "Compile Entity "Single_port_RAM_TB"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "Single_port_RAM_TB"" 
+ERROR COMP96_0016: "Design unit declaration expected." "C:/Users/lenovo/Desktop/cad final/CAD Project 2/Project2/CAD Proejct2/src/TestBench/single_port_ram_vhdl_TB.vhd" 87 1
+MESSAGE "Compile Entity "work"" 
+ERROR COMP96_0019: "Keyword 'is' expected." "C:/Users/lenovo/Desktop/cad final/CAD Project 2/Project2/CAD Proejct2/src/TestBench/single_port_ram_vhdl_TB.vhd" 89 19
+ERROR COMP96_0019: "Keyword 'end' expected." "C:/Users/lenovo/Desktop/cad final/CAD Project 2/Project2/CAD Proejct2/src/TestBench/single_port_ram_vhdl_TB.vhd" 89 19
+ERROR COMP96_0015: "';' expected." "C:/Users/lenovo/Desktop/cad final/CAD Project 2/Project2/CAD Proejct2/src/TestBench/single_port_ram_vhdl_TB.vhd" 89 19
+ERROR COMP96_0016: "Design unit declaration expected." "C:/Users/lenovo/Desktop/cad final/CAD Project 2/Project2/CAD Proejct2/src/TestBench/single_port_ram_vhdl_TB.vhd" 89 20
+FAILURE "Compile failure 5 Errors 0 Warnings  Analysis time :  63.0 [ms]" 

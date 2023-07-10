@@ -1,0 +1,56 @@
+timestamp=1688470719584
+
+[~A]
+ModifyID=5
+Version=74
+
+[~MFT]
+0=3|0CAD_Proejct2.mgf|7583|506
+1=1|1CAD_Proejct2.mgf|6126|0
+3=1|3CAD_Proejct2.mgf|889|0
+
+[single_port_ram_tb]
+A/behavioral=A/Behavioral 21|../src/TestBench/single_port_ram_vhdl_TB.vhd|7|1*6126
+BinW64/behavioral=3*889
+I=0*5907
+I/behavioral=I/Behavioral 0*7583
+M=11|2|vef|1688470239537|../src/TestBench/single_port_ram_vhdl_TB.vhd|0*5571*0x921aff9fe4717ad8d5711bdc8bfda7066469a4b9|0*5791*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1688470719539|../src/TestBench/single_port_ram_vhdl_TB.vhd|0*6119*0xffd85d26164e3ae6c479f7a02160da6f46a0b393|0*7453*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/single_port_ram_vhdl_TB.vhd|4
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|86ea563e39cd5a3738b3c8d8459fcfc8ac02a1bebccadeebdb04e63f2fbd70057172067e3290e5136d22b066fb55a950
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff43fbf0434b0209cb4765356e0180356bd
+
+[single_port_ram_vhdl]
+A/behavioral=A/Behavioral 21|../src/main.vhd|15|1*0
+BinW64/behavioral=3*0
+I=0*741
+I/behavioral=I/Behavioral 0*1877
+M=11|2|vef|1688469736309|../src/main.vhd|0*244*0x07fce3a26cae1538735273d5c25ef57040e6b193|0*652*0x23b75c12e3e89f2ef000564498faa8c2
+M/behavioral=M/Behavioral 21|2|vef|1688469736311|../src/main.vhd|0*995*0x1191bd1f429728808006f5fbbcbc053881a89e07|0*1774*0x20116f55b147878295aeff36dce7fc50
+R=../src/main.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|86ea563e39cd5a3738b3c8d8459fcfc8dd6b96a12022ceb1c8821e91c5fb3054092473b54f82b323b5e1dc3195357597
+Version/behavioral=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|35f8e56ee514308d50318f7abb190927faf8176ad6902a7357df79bb1a85bff49203ccd38c866179b198fd2146301f55
+
+[single_port_ram_vhdl_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|../src/TestBench/single_port_ram_vhdl_TB.vhd|10|1*4005
+I=0*3182
+I/tb_architecture=I/TB_ARCHITECTURE 0*4368
+M=11|2|vef|1688469955704|../src/TestBench/single_port_ram_vhdl_TB.vhd|0*2800*0x45be626321e7710486e1d0a01ad9bf13b27142b4|0*3061*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|2|vef|1688469955707|../src/TestBench/single_port_ram_vhdl_TB.vhd|0*3439*0x3a8aebea8b4a06818debb0547ca529f396052625|0*4228*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/single_port_ram_vhdl_TB.vhd|7
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|86ea563e39cd5a3738b3c8d8459fcfc8f84de55b7b486760ffe7dac7d5ed7aff26527262ddaa47cb266f3a3c4d9b973a744372dbb241f25903b6c8dded4ca5a9
+Version/tb_architecture=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beac07f2a2f46a2efc5d4e1523020f43e8f
+
+[testbench_for_single_port_ram_vhdl]
+Configures=single_port_ram_vhdl_tb.TB_ARCHITECTURE
+E=1*5623
+I=0*5239
+M=2|2|vef|1688469955711|../src/TestBench/single_port_ram_vhdl_TB.vhd|0*4691*0x703aea8bbc0ed97805a16bfca30d37ac5bcb8000|0*5081*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/single_port_ram_vhdl_TB.vhd|47
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5947bf7ae1f1616d8cd22ebeb8568982fbfb3cfb59cb63fba88793d1ef3995765afcf03a3e27a1560494565b69e5bd124
+
+[~U]
+single_port_ram_tb=Single_port_RAM_TB 11|0*5429|
+single_port_ram_vhdl=Single_port_RAM_VHDL 11|0*0|
+single_port_ram_vhdl_tb=11|0*2648|
+testbench_for_single_port_ram_vhdl=TESTBENCH_FOR_single_port_ram_vhdl 2||

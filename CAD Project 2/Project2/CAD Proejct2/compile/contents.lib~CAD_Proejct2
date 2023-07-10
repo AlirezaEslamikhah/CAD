@@ -1,0 +1,8 @@
+5
+~E 1 "../src/TestBench/single_port_ram_vhdl_TB.vhd" 4 Single_port_RAM_TB
+~A 1 "../src/TestBench/single_port_ram_vhdl_TB.vhd" 7 Behavioral
+~E 1 "../src/main.vhd" 5 Single_port_RAM_VHDL
+~A 1 "../src/main.vhd" 15 Behavioral
+~E 1 "../src/TestBench/single_port_ram_vhdl_TB.vhd" 7 single_port_ram_vhdl_tb
+~A 1 "../src/TestBench/single_port_ram_vhdl_TB.vhd" 10 TB_ARCHITECTURE
+~C 1 "../src/TestBench/single_port_ram_vhdl_TB.vhd" 47 testbench_for_single_port_ram_vhdl
